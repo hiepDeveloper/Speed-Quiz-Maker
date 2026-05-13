@@ -1,40 +1,72 @@
 export const parseQuizText = (text) => {
   const questions = [];
-  // Split by "câu [number]:" but keep the delimiter or use a better regex
-  const blocks = text.split(/câu \d+:/i).filter(b => b.trim() !== "");
   
-  // Need to handle the numbers if they are important, but usually index is fine
-  // Let's re-split to include the "câu n:" text if we want the actual number
-  const regex = /câu (\d+):([\s\S]*?)(?=câu \d+:|$)/gi;
+  // Use a more robust way to split questions: Look for "Câu [number]:" at the start of a line
+  // We use a regex that captures the number and the content until the next "Câu"
+  const questionRegex = /(?:^|\n)Câu\s+(\d+)\s*:\s*([\s\S]*?)(?=\nCâu\s+\d+\s*:|$)/gi;
+  
   let match;
-  
-  while ((match = regex.exec(text)) !== null) {
+  while ((match = questionRegex.exec(text)) !== null) {
     const id = match[1];
     const content = match[2].trim();
     
-    // Split lines
+    // Split lines and clean up
     const lines = content.split('\n').map(l => l.trim()).filter(l => l !== "");
+    if (lines.length < 2) continue; // Skip if no options
+
     const questionText = lines[0];
-    const options = lines.slice(1).map(opt => {
-      const isCorrect = opt.startsWith('*');
-      // Remove '*' and the label (A., B., etc.) if needed, or keep it.
-      // Usually, we want the text after the label.
-      const labelMatch = opt.match(/^\*?([A-D])\.\s?(.*)$/i);
-      if (labelMatch) {
+    const options = lines.slice(1).map(line => {
+      // Pattern: optional *, then A/B/C/D, then . or ), then the text
+      const optionMatch = line.match(/^(\*)?\s*([A-D])\s*[\.\)]\s*(.*)$/i);
+      if (optionMatch) {
         return {
-          label: labelMatch[1].toUpperCase(),
-          text: labelMatch[2],
-          isCorrect
+          label: optionMatch[2].toUpperCase(),
+          text: optionMatch[3].trim(),
+          isCorrect: !!optionMatch[1]
         };
       }
       return null;
-    }).filter(o => o !== null);
+    }).filter(opt => opt !== null);
 
-    questions.push({
-      id,
-      question: questionText,
-      options
-    });
+    if (options.length > 0) {
+      questions.push({
+        id,
+        question: questionText,
+        options
+      });
+    }
+  }
+
+  // Fallback for different formats (e.g. lowercase "câu")
+  if (questions.length === 0) {
+    const fallbackRegex = /(?:^|\n)câu\s+(\d+)\s*:\s*([\s\S]*?)(?=\ncâu\s+\d+\s*:|$)/gi;
+    while ((match = fallbackRegex.exec(text)) !== null) {
+      const id = match[1];
+      const content = match[2].trim();
+      const lines = content.split('\n').map(l => l.trim()).filter(l => l !== "");
+      if (lines.length < 2) continue;
+
+      const questionText = lines[0];
+      const options = lines.slice(1).map(line => {
+        const optionMatch = line.match(/^(\*)?\s*([A-D])\s*[\.\)]\s*(.*)$/i);
+        if (optionMatch) {
+          return {
+            label: optionMatch[2].toUpperCase(),
+            text: optionMatch[3].trim(),
+            isCorrect: !!optionMatch[1]
+          };
+        }
+        return null;
+      }).filter(opt => opt !== null);
+
+      if (options.length > 0) {
+        questions.push({
+          id,
+          question: questionText,
+          options
+        });
+      }
+    }
   }
   
   return questions;

@@ -3,10 +3,10 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
-export default defineConfig({
-  base: '/Speed-Quiz-Maker/',
+export default defineConfig(({ mode }) => ({
+  base: mode === 'production' ? '/Speed-Quiz-Maker/' : '/',
   plugins: [
     react(),
     tailwindcss(),
   ],
-})
+}))

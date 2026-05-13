@@ -29,10 +29,10 @@ function App() {
     if (savedCustom) setCustomQuizzes(JSON.parse(savedCustom));
 
     // Load system quizzes from manifest
-    fetch('quizzes.json')
+    fetch(`${import.meta.env.BASE_URL}quizzes.json`)
       .then(res => res.json())
       .then(data => setSystemQuizzes(data))
-      .catch(err => console.log("Failed to load system quizzes"));
+      .catch(err => console.error("Failed to load system quizzes:", err));
   }, []);
 
   const loadQuiz = (quiz, isCustom = false) => {
@@ -48,8 +48,11 @@ function App() {
     } else {
       // For system quizzes, ensure path is correct relative to base
       const filePath = quiz.file.startsWith('/') ? quiz.file.substring(1) : quiz.file;
-      fetch(filePath)
-        .then(res => res.text())
+      fetch(`${import.meta.env.BASE_URL}${filePath}`)
+        .then(res => {
+          if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+          return res.text();
+        })
         .then(text => {
           const parsed = parseQuizText(text);
           if (parsed.length > 0) {
@@ -57,7 +60,13 @@ function App() {
             setQuizName(quiz.name);
             setQuizId(quiz.id);
             setupProgress(quiz.id);
+          } else {
+            console.error("Parsed quiz is empty for file:", filePath);
           }
+        })
+        .catch(err => {
+          console.error("Failed to load quiz file:", err);
+          alert("Không thể tải bộ đề này. Vui lòng kiểm tra kết nối hoặc tệp tin.");
         });
     }
   };
