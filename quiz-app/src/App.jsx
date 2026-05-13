@@ -29,7 +29,7 @@ function App() {
     if (savedCustom) setCustomQuizzes(JSON.parse(savedCustom));
 
     // Load system quizzes from manifest
-    fetch('/quizzes.json')
+    fetch('quizzes.json')
       .then(res => res.json())
       .then(data => setSystemQuizzes(data))
       .catch(err => console.log("Failed to load system quizzes"));
@@ -46,7 +46,9 @@ function App() {
         setupProgress(quizData.id);
       }
     } else {
-      fetch(quiz.file)
+      // For system quizzes, ensure path is correct relative to base
+      const filePath = quiz.file.startsWith('/') ? quiz.file.substring(1) : quiz.file;
+      fetch(filePath)
         .then(res => res.text())
         .then(text => {
           const parsed = parseQuizText(text);

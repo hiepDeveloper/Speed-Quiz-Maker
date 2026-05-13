@@ -2,21 +2,21 @@
   {
     "id": "400_CAU_TRAC_NGHIEM_PHAP_LUAT_DAI_CUONG",
     "name": "Pháp luật đại cương (400 câu)",
-    "file": "/quiz/400_CAU_TRAC_NGHIEM_PHAP_LUAT_DAI_CUONG.txt"
+    "file": "quiz/400_CAU_TRAC_NGHIEM_PHAP_LUAT_DAI_CUONG.txt"
   },
   {
     "id": "40_CAU_TRAC_NGHIEM_PHAP_LUAT_DAI_CUONG_2024_2025",
     "name": "Pháp luật đại cương 2024 - 2025 (40 câu)",
-    "file": "/quiz/40_CAU_TRAC_NGHIEM_PHAP_LUAT_DAI_CUONG_2024_2025.txt"
+    "file": "quiz/40_CAU_TRAC_NGHIEM_PHAP_LUAT_DAI_CUONG_2024_2025.txt"
   },
   {
     "id": "40_CAU_TRAC_NGHIEM_PHAP_LUAT_DAI_CUONG_2023_2024",
     "name": "Pháp luật đại cương 2023 - 2024 (40 câu)",
-    "file": "/quiz/40_CAU_TRAC_NGHIEM_PHAP_LUAT_DAI_CUONG_2023_2024.txt"
+    "file": "quiz/40_CAU_TRAC_NGHIEM_PHAP_LUAT_DAI_CUONG_2023_2024.txt"
   },
   {
     "id": "40_CAU_TRAC_NGHIEM_PHAP_LUAT_DAI_CUONG_2022_2023",
     "name": "Pháp luật đại cương 2022 - 2023 (40 câu)",
-    "file": "/quiz/40_CAU_TRAC_NGHIEM_PHAP_LUAT_DAI_CUONG_2022_2023.txt"
+    "file": "quiz/40_CAU_TRAC_NGHIEM_PHAP_LUAT_DAI_CUONG_2022_2023.txt"
   }
 ]
