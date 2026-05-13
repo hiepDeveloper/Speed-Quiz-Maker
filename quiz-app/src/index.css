@@ -1,0 +1,114 @@
+@import "tailwindcss";
+
+@theme {
+  --color-premium-dark: #0f172a;
+  --color-premium-gold: #fbbf24;
+  --color-premium-success: #10b981;
+  --color-premium-error: #ef4444;
+  --color-premium-accent: #6366f1;
+
+  --animate-fade-in: fadeIn 0.5s ease-out;
+  --animate-slide-up: slideUp 0.5s ease-out;
+  --animate-scale-in: scaleIn 0.3s ease-out;
+
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  @keyframes slideUp {
+    0% { transform: translateY(20px); opacity: 0; }
+    100% { transform: translateY(0); opacity: 1; }
+  }
+  @keyframes scaleIn {
+    0% { transform: scale(0.9); opacity: 0; }
+    100% { transform: scale(1); opacity: 1; }
+  }
+}
+
+:root {
+  font-family: 'Outfit', sans-serif;
+  background-color: #0f172a;
+  color: #f8fafc;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+@layer components {
+  .glass {
+    background-color: rgb(15 23 42 / 0.4);
+    backdrop-filter: blur(24px);
+    border: 1px solid rgb(51 65 85 / 0.5);
+    box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.5);
+  }
+  
+  .premium-button {
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.75rem;
+    font-weight: 600;
+    transition-property: all;
+    transition-duration: 300ms;
+  }
+  .premium-button:active {
+    transform: scale(0.95);
+  }
+  .premium-button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+
+  .premium-button-primary {
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.75rem;
+    font-weight: 600;
+    transition-property: all;
+    transition-duration: 300ms;
+    background-color: rgb(79 70 229);
+    color: white;
+    box-shadow: 0 10px 15px -3px rgb(79 70 229 / 0.3);
+  }
+  .premium-button-primary:hover {
+    background-color: rgb(99 102 241);
+  }
+  .premium-button-primary:active {
+    transform: scale(0.95);
+  }
+
+  .premium-button-secondary {
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.75rem;
+    font-weight: 600;
+    transition-property: all;
+    transition-duration: 300ms;
+    background-color: rgb(30 41 59);
+    color: rgb(226 232 240);
+    border: 1px solid rgb(51 65 85);
+  }
+  .premium-button-secondary:hover {
+    background-color: rgb(51 65 85);
+  }
+  .premium-button-secondary:active {
+    transform: scale(0.95);
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0f172a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
