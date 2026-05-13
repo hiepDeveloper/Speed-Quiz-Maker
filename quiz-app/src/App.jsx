@@ -175,12 +175,13 @@ function App() {
             <div className="w-10 h-10 bg-indigo-600 rounded-xl flex items-center justify-center shadow-lg shadow-indigo-600/20">
               <BookOpen className="w-6 h-6 text-white" />
             </div>
-            <span className="text-xl font-bold tracking-tight text-white">QuizMaster</span>
+            <span className="text-xl font-bold tracking-tight text-white">SpeedQuizMaker</span>
           </div>
           
           <div className="flex items-center gap-2">
             <button onClick={() => setView('home')} className={`px-4 py-2 rounded-lg transition-colors ${view === 'home' ? 'bg-indigo-600 text-white' : 'hover:bg-slate-800 text-slate-400'}`}>Trang chủ</button>
             <button onClick={() => setView('history')} className={`px-4 py-2 rounded-lg transition-colors ${view === 'history' ? 'bg-indigo-600 text-white' : 'hover:bg-slate-800 text-slate-400'}`}>Lịch sử</button>
+            <button onClick={() => setView('help')} className={`px-4 py-2 rounded-lg transition-colors ${view === 'help' ? 'bg-indigo-600 text-white' : 'hover:bg-slate-800 text-slate-400'}`}>Hướng dẫn</button>
           </div>
         </div>
       </nav>
@@ -314,6 +315,62 @@ function App() {
           {view === 'history' && (
             <motion.div key="history" initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }} className="max-w-2xl mx-auto">
               <HistoryBoard history={history} onClear={clearHistory} />
+            </motion.div>
+          )}
+
+          {view === 'help' && (
+            <motion.div key="help" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }} className="max-w-3xl mx-auto space-y-8">
+              <div className="text-center space-y-4">
+                <h1 className="text-4xl font-black text-white">Hướng dẫn <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-purple-400">tạo đề</span></h1>
+                <p className="text-lg text-slate-400">Chỉ mất 1 phút để soạn một bộ đề ôn tập chuẩn.</p>
+              </div>
+
+              <div className="glass p-8 rounded-3xl space-y-6">
+                <section className="space-y-4">
+                  <h3 className="text-xl font-bold text-white flex items-center gap-2">
+                    <div className="w-8 h-8 bg-indigo-600/20 rounded-lg flex items-center justify-center text-indigo-400 text-sm">1</div>
+                    Cấu trúc câu hỏi
+                  </h3>
+                  <p className="text-slate-400">Mỗi câu hỏi cần tuân thủ cấu trúc sau để hệ thống có thể nhận diện chính xác:</p>
+                  <div className="bg-slate-950/50 p-6 rounded-2xl font-mono text-sm border border-slate-800 text-indigo-300">
+                    <p>Câu 1: Nội dung câu hỏi ở đây?</p>
+                    <p>A. Đáp án lựa chọn 1</p>
+                    <p>*B. Đáp án lựa chọn 2 (Đây là đáp án đúng)</p>
+                    <p>C. Đáp án lựa chọn 3</p>
+                    <p>D. Đáp án lựa chọn 4</p>
+                  </div>
+                </section>
+
+                <section className="space-y-4">
+                  <h3 className="text-xl font-bold text-white flex items-center gap-2">
+                    <div className="w-8 h-8 bg-indigo-600/20 rounded-lg flex items-center justify-center text-indigo-400 text-sm">2</div>
+                    Quy tắc quan trọng
+                  </h3>
+                  <ul className="space-y-3">
+                    <li className="flex items-start gap-3 text-slate-300">
+                      <div className="mt-1.5 w-1.5 h-1.5 rounded-full bg-indigo-500 shrink-0" />
+                      <span>Bắt đầu bằng cụm từ <code className="text-indigo-400 bg-indigo-500/10 px-1.5 py-0.5 rounded">Câu n:</code> (ví dụ: Câu 1:, Câu 2:).</span>
+                    </li>
+                    <li className="flex items-start gap-3 text-slate-300">
+                      <div className="mt-1.5 w-1.5 h-1.5 rounded-full bg-indigo-500 shrink-0" />
+                      <span>Sử dụng dấu <code className="text-indigo-400 bg-indigo-500/10 px-1.5 py-0.5 rounded">*</code> ngay trước chữ cái đáp án đúng (ví dụ: <code className="text-emerald-400 font-bold">*A.</code>).</span>
+                    </li>
+                    <li className="flex items-start gap-3 text-slate-300">
+                      <div className="mt-1.5 w-1.5 h-1.5 rounded-full bg-indigo-500 shrink-0" />
+                      <span>Lưu tệp dưới định dạng văn bản thuần túy (<code className="text-indigo-400 bg-indigo-500/10 px-1.5 py-0.5 rounded">.txt</code>) với mã hóa **UTF-8** để hiển thị đúng tiếng Việt.</span>
+                    </li>
+                  </ul>
+                </section>
+
+                <div className="pt-6 border-t border-slate-800">
+                  <button 
+                    onClick={() => setView('home')}
+                    className="premium-button-primary w-full"
+                  >
+                    Đã hiểu, quay lại trang chủ
+                  </button>
+                </div>
+              </div>
             </motion.div>
           )}
         </AnimatePresence>
