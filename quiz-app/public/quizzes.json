@@ -18,5 +18,10 @@
     "id": "40_CAU_TRAC_NGHIEM_PHAP_LUAT_DAI_CUONG_2022_2023",
     "name": "Pháp luật đại cương 2022 - 2023 (40 câu)",
     "file": "quiz/40_CAU_TRAC_NGHIEM_PHAP_LUAT_DAI_CUONG_2022_2023.txt"
+  },
+  {
+    "id": "Thu_vien_cau_hoi_PLDC",
+    "name": "Pháp luật đại cương (334 câu)",
+    "file": "quiz/Thu_vien_cau_hoi_PLDC.txt"
   }
 ]
