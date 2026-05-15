@@ -23,5 +23,10 @@
     "id": "Thu_vien_cau_hoi_PLDC",
     "name": "Pháp luật đại cương (334 câu)",
     "file": "quiz/Thu_vien_cau_hoi_PLDC.txt"
+  },
+  {
+    "id": "CAU-HOI-ON-TAP-TRAC-NGHIEM-KINH-TE-CHINH-TRI-MAC-LENIN",
+    "name": "CÂU HỎI ÔN TẬP TRẮC NGHIỆM KINH TẾ CHÍNH TRỊ MÁC - LÊNIN",
+    "file": "quiz/CAU-HOI-ON-TAP-TRAC-NGHIEM-KINH-TE-CHINH-TRI-MAC-LENIN.txt"
   }
 ]
