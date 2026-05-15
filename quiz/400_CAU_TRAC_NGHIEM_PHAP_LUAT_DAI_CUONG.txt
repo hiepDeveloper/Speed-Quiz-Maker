@@ -3,2191 +3,1824 @@ A. tính khuôn mẫu chung.
 B. chuẩn mực xử sự chung.
 C. nguyên tắc xử sự chung. 
 *D. quy tắc xử sự chung.
-
 Câu 2: "Đường phố là đường đô thị, gồm lòng đường và hè phố". Quy phạm pháp luật này thuộc loại nào? 
 A. Hình thức.
 B. Nguyên tắc.
 C. Giải thích.
 *D. Định nghĩa.
-
 Câu 3: Bộ phận nào trong quy phạm pháp luật nêu lên những điều kiện, hoàn cảnh có thể xảy ra trong thực tế?
 A. Chủ thể.
 B. Quy định.
 C. Chế tài.
 *D. Giả định. 
-
 Câu 4: Bộ phận nào của quy phạm pháp luật nêu lên cách xử sự mà chủ thể được làm, không được làm, phải làm?
 A. Chủ thể.
 B. Giả định.
 C. Chế tài.
 *D. Quy định.
-
 Câu 5: Bộ phận nào trong quy phạm pháp luật nêu lên biện pháp mà nhà nước sẽ áp dụng khi chủ thể không thực hiện mệnh lệnh nêu trong quy định?
 A. Chủ thể.
 B. Giả định.
 C. Quy định.
 *D. Chế tài.
-
 Câu 6: Bộ phận trung tâm của quy phạm pháp luật là
 A. giả định.
 *B. quy định.
 C. chế tài.
 D. chủ thể.
-
 Câu 7: Khi nhà nước đặt ra quy phạm pháp luật ở hình thức “nếu làm…thì bị...” thì bộ phận nào bị ẩn giấu trong quy phạm pháp luật?
 A. Giả định.
 B. Quy định.
 *C. Chế tài.
 D. Chủ thể.
-
 Câu 8: Căn cứ vào tính chất, chế tài được chia thành  những loại nào?
 A. Hình sự, hành chính, dân sự, vật chất.
 *B. Hình sự, hành chính, dân sự, kỷ luật.
 C. Hình phạt, xử phạt, bồi thường thiệt hại.
 D. Hình phạt, xử phạt, kỷ luật, vật chất.
-
 Câu 9: Căn cứ vào mệnh lệnh, bộ phận quy định trong quy phạm pháp luật được phân loại thành
 A. cho phép và ngăn cấm.
 *B. dứt khoát và không dứt khoát. 
 C. ngăn cấm và tùy nghi.
 D. trao quyền và ngăn cấm.
-
 Câu 10: Trong quy phạm pháp luật, loại quy định nào sau đây chỉ nêu một cách xử sự và các chủ thể buộc phải xử sự theo mà không có sự lựa chọn? 
 A. Cho phép.
 *B. Dứt khoát.
 C. Trao quyền.
 D.  Ngăn cấm.
-
 Câu 11: Do thường xuyên đi làm muộn nên công nhân K bị công ty khiển trách. K bị áp dụng loại chế tài nào?
 A. Hành chính.
 B. Hình sự. 
 *C. Kỷ luật.
 D. Dân sự.
-
 Câu 12: “Cơ quan, tổ chức, cá nhân phải thực hành tiết kiệm, chống lãng phí, phòng, chống tham nhũng trong hoạt động kinh tế - xã hội và quản lý nhà nước”. Quy phạm pháp luật này gồm bộ phận
 A. chủ thể và quy định.
 B. giả định và chế tài.
 *C. giả định và quy định.
 D. chủ thể và chế tài.
-
 Câu 13: Sinh viên T đánh sinh viên P trong ký túc xá nên bị Hiệu trưởng xử lý đình chỉ học 01 năm. T đã bị áp dụng loại chế tài
 A. hành chính.
 B. xử phạt.
 *C. kỷ luật.
 D. hình phạt.
-
 Câu 14: Chủ tịch Uỷ ban nhân dân xã M xử phạt X 200.000 đồng về hành vi gây mất vệ sinh chung. X đã bị áp dụng loại chế tài
 A. dân sự.
 B. kỷ luật.
 *C. hành chính.
 D. vật chất.
-
 Câu 15: "Hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng." Đây là loại quy phạm pháp luật 
 A. nội dung.
 B. định nghĩa.
 *C. nguyên tắc.
 D. hình thức.
-
 Câu 16: "Vợ chồng đã ly hôn muốn xác lập lại quan hệ vợ chồng thì phải đăng ký kết hôn". Quy phạm pháp luật này có những bộ phận nào?
 A. Quy định và chế tài.
 B. Giả định và chủ thể. 
 *C. Giả định và quy định.
 D. Giả định và chế tài.
-
 Câu 17: "Người tham gia giao thông phải đi bên phải theo chiều đi của mình, đi đúng làn đường, phần đường quy định và phải chấp hành hệ thống báo hiệu đường bộ." Nội dung nào trong quy phạm pháp luật này là bộ phận giả định?
 A. Đi đúng làn đường.
 B. Phải đi bên phải.
 *C. Người tham gia giao thông. 
 D. Chấp hành hệ thống báo hiệu.
-
 Câu 18: "Người nào sản xuất trái phép chất ma túy dưới bất kỳ hình thức nào, thì bị phạt tù từ 02 năm đến 07 năm." Quy phạm pháp luật này đã nêu bộ phận
 A. giả định, quy định và chế tài.
 B. giả định và quy định.
 *C. giả định và chế tài.
 D. quy định và chế tài.
-
 Câu 19: "Người nào sản xuất, buôn bán hàng giả là thuốc chữa bệnh, thuốc phòng bệnh, thì bị phạt tù từ 02 năm đến 07 năm." Bộ phận giả định trong quy phạm pháp luật này là
 A. người nào sản xuất hàng giả là thuốc phòng bệnh thì bị phạt tù.
 B. người nào sản xuất, buôn bán hàng giả là thuốc chữa bệnh thì bị phạt tù.
 *C. người nào sản xuất, buôn bán hàng giả là thuốc chữa bệnh, thuốc phòng bệnh.
 D.  sản xuất, buôn bán hàng giả thì bị phạt tù từ 02 năm đến 07 năm.
-
 Câu 20: "Người nào đe doạ giết người, nếu có căn cứ làm cho người bị đe dọa lo sợ rằng việc đe dọa này sẽ được thực hiện, thì bị phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm." Bộ phận chế tài trong quy phạm pháp luật này là
 A. bị áp dụng hình phạt theo quy định trong Bộ luật Hình sự.
 B. bị truy cứu trách nhiệm pháp lý theo quy định pháp luật hình sự Việt Nam.
 *C. bị phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm.
 D. bị áp dụng hình phạt cải tạo không giam giữ và phạt tù.
-
 Câu 21: Một quan hệ pháp luật gồm các thành phần là 
 A. giả định, quy định, chế tài.
 B. chủ thể, khách thể, đối tượng.
 C. chủ thể, nội dung, đối tượng.
 *D. chủ thể, nội dung, khách thể.
-
 Câu 22: Quan hệ pháp luật có đặc điểm là
 A. tính bình đẳng và minh bạch.
 B. tính trung thực và thiện chí.
 C. tính tự nguyện của các bên chủ thể. 
 *D. tính ý chí nhà nước.
-
 Câu 23: Năng lực hành vi của cá nhân được xác định bởi khả năng
 A. nhận biết và làm chủ hành động.
 B. nhận thức và làm chủ hành động.
 C. nhận biết và điều chỉnh hành vi.
 *D. nhận thức và làm chủ hành vi.
-
 Câu 24: Quan hệ xã hội được các quy phạm pháp luật điều chỉnh là
 A. quan hệ giữa các chủ thể trong xã hội.
 B. quan hệ giữa cá nhân với nhau.
 C. quan hệ giữa nhà nước và cá nhân, tổ chức.
 *D. quan hệ pháp luật.
-
 Câu 25: Nội dung của quan hệ pháp luật là
 A. căn cứ xác lập quan hệ pháp luật.
 B. đối tượng mà các chủ thể quan tâm.
 C. lợi ích các chủ thể mong muốn đạt được.
 *D. quyền và nghĩa vụ pháp lý của các chủ thể.
-
 Câu 26: Khách thể của quan hệ pháp luật là
 A. lợi ích vật chất, tinh thần.
 B. hành vi mà các bên thực hiện.
 C. đối tượng của quan hệ pháp luật.
 *D. lợi ích mà chủ thể mong muốn đạt được.
-
 Câu 27: Năng lực pháp luật của pháp nhân chấm dứt kể từ thời điểm 
 A. giải tán.
 B. phá sản pháp nhân.
 C. giải thể.
 *D. chấm dứt pháp nhân.
-
 Câu 28: Một sự kiện mà sự xuất hiện hay mất đi của nó gắn với việc hình thành, thay đổi hay chấm dứt một quan hệ pháp luật là
 A. sự biến pháp lý.
 B. áp dụng pháp luật.
 C. vi phạm pháp luật.
 *D. sự kiện pháp lý.
-
 Câu 29: Chủ thể quan hệ pháp luật là cá nhân gồm
 A. công dân và người không quốc tịch.
 B. công dân và người mang quốc tịch nước ngoài.
 C. người nước ngoài và người không quốc tịch.
 *D. công dân và người nước ngoài. 
-
 Câu 30: Chủ thể quan hệ pháp luật gồm
 A. công dân, pháp nhân.
 B. công dân, tổ chức.
 *C. cá nhân, pháp nhân.
 D. cá nhân, tổ chức.
-
 Câu 31: Cá nhân bị mất năng lực hành vi dân sự khi
 A. nghiện chất kích thích.
 B. bị bệnh tâm thần.
 C. không có khả năng làm chủ hành vi.
 *D. Tòa án có quyết định tuyên bố.
-
 Câu 32: Năng lực pháp luật của cá nhân có từ khi người đó 
 A. đủ 14 tuổi.
 B. đủ 18 tuổi.
 C. từ 18 tuổi.
 *D. sinh ra.
-
 Câu 33: Xét về thời điểm, năng lực pháp luật và năng lực hành vi của pháp nhân xuất hiện như thế nào?
 A. Tùy trường hợp.
 B. Năng lực pháp luật có trước năng lực hành vi.
 C. Năng lực hành vi có trước năng lực pháp luật.
 *D. Đồng thời.
-
 Câu 34: Sự kiện nào sau đây được xem là sự biến pháp lý?
 A. Nam nữ đăng ký kết hôn.
 B. Giao kết hợp đồng mua bán.
 C. Lập di chúc để lại thừa kế.
 *D. Cháy rừng do người dân đốt than.
-
 Câu 35: Pháp nhân có năng lực chủ thể trong trường hợp nào sau đây?  
 A. Có quyết định thành lập.
 B. Có đủ tài sản và bộ máy quản lý.
 C. Đăng ký thành lập.
 *D. Được thành lập theo quy định pháp luật.
-
 Câu 36: Người mới sinh ra được Nhà nước công nhận là chủ thể có 
 A. năng lực công dân.
 B. năng lực hành vi.
 C. năng lực chủ thể.
 *D. năng lực pháp luật.
-
 Câu 37: Chủ thể tham gia quan hệ pháp luật phải có năng lực gì?
 A. Năng lực nhận thức.
 B. Năng lực pháp luật. 
 C. Năng lực hành vi.
 *D. Năng lực chủ thể.
-
 Câu 38: Sự kiện nào sau đây là sự biến pháp lý tương đối?
 A. Sạc lỡ núi do mưa lớn.
 B. Nước biển dâng do sóng thần.
 C. Nhà sập do động đất.
 *D. Cháy chợ do bị chập điện.
-
 Câu 39: Căn cứ vào sự hình thành và tiến triển của sự kiện, sự biến pháp lý được phân loại thành
 A. đơn giản và phức tạp.
 B. sự biến và hành vi.
 C. hợp pháp và bất hợp pháp.
 *D. tương đối và tuyệt đối.
-
 Câu 40: Cá nhân có năng lực hành vi đầy đủ ở độ tuổi nào?
 A. Từ đủ 16 tuổi.
 B. Từ 18 tuổi.
 C. Từ 16 tuổi.
 *D. Từ đủ 18 tuổi.
-
 Câu 41: Ông K đại diện công ty H ký hợp đồng vay tín dụng với ông P đại diện ngân hàng Q. Chủ thể của quan hệ pháp luật này là
 A. ông K và ngân hàng Q.
 B. ông K và ông P.
 *C. công ty H và ngân hàng Q.
 D. công ty H và ông P.
-
 Câu 42: Ông Q đã tham ô 02 tỷ đồng của công ty H. Chủ thể trong quan hệ trách nhiệm pháp lý này là
 A. ông Q và công ty H.
 B. công ty H và Nhà nước.
 *C. ông Q và Nhà nước.
 D. ông Q, công ty H và Nhà nước.
-
 Câu 43: Đ tặng H cuốn sách. Cuốn sách là yếu tố nào của quan hệ pháp luật?
 A. Nội dung.
 B. Giá trị.
 *C. Đối tượng.
 D. Khách thể.
-
 Câu 44: Chị T bán cho ông Q chiếc ô tô với giá 01 tỷ đồng. Khách thể trong quan hệ pháp luật này là
 A. quyền sở hữu chiếc ô tô của ông Q.
 B. chiếc ô tô của chị T và 01 tỷ đồng của ông Q.
 *C. quyền sở hữu chiếc ô tô và số tiền 01 tỷ đồng.
 D. quyền sở hữu 01 tỷ đồng của chị T.
-
 Câu 45: H bán cho T ngôi nhà với giá 02 tỷ đồng. Đối tượng trong quan hệ pháp luật này là
 A. 02 tỷ đồng của T.
 B. ngôi nhà của H.
 *C. ngôi nhà và 02 tỷ đồng.
 D. quyền sở hữu ngôi nhà và 02 tỷ đồng.
-
 Câu 46: T tặng L chiếc túi xách nhân dịp sinh nhật. Chiếc túi xách là yếu tố nào của quan hệ pháp luật? 
 A. Nội dung.
 B. Khách thể.
 *C. Đối tượng. 
 D. Giá trị.
-
 Câu 47: K vượt đèn đỏ bị cảnh sát giao thông xử phạt 01 triệu đồng. Khách thể trong quan hệ trách nhiệm pháp lý này là
 A. hành vi vượt đèn đỏ của K.
 B. 01 triệu đồng.
 *C. trật tự an toàn giao thông.
 D. quyết định xử phạt của cảnh sát giao thông.
-
 Câu 48: E vay H 500 triệu đồng. Nội dung của quan hệ pháp luật này là
 A. quyền định đoạt 500 triệu đồng của H.
 B. hợp đồng vay tiền giữa E và H.
 *C. quyền và nghĩa vụ của E và H. 
 D. quyền định đoạt 500 triệu đồng của E.
-
 Câu 49: T bị Tòa án nhân dân thành phố X tuyên án 3 năm tù về tội tổ chức đua xe trái phép. Chủ thể của quan hệ pháp luật này là
 A. T và Tòa án nhân dân thành phố X.
 B. T và Tòa án.
 *C. T và Nhà nước.
 D. T và Hội đồng xét xử.
-
 Câu 50: H bán cho N cái tủ trị giá 01 triệu đồng. Xác định nội dung của quan hệ pháp luật này? 
 A. Cái tủ và 01 triệu đồng.
 B. Thỏa thuận giữa H và N.
 *C. Quyền và nghĩa vụ của H và N.
 D. Hợp đồng mua bán giữa H và N.
-
 Câu 51: Anh T điều khiển xe máy vượt đèn đỏ bị cảnh sát giao thông lập biên bản xử phạt hành chính. Cảnh sát giao thông đã thực hiện pháp luật theo hình thức nào sau đây?
 A. Sử dụng pháp luật.
 B. Tuân theo pháp luật.
 *C. Áp dụng pháp luật.
 D. Thi hành pháp luật.
-
 Câu 52: Hành vi thi hành pháp luật được thực hiện dưới dạng
 A. thực hiện quyền.
 B. không hành động.
 *C. hành động.
 D. hoạt động có mục đích.
-
 Câu 53: Ông K và bà H tranh chấp về tài sản thừa kế nên ông K nộp đơn khởi kiện yêu cầu Toà án giải quyết. Ông K đã thực hiện pháp luật theo hình thức nào sau đây?
 A. Tuân theo pháp luật.
 B. Thi hành pháp luật.
 *C. Sử dụng pháp luật.
 D. Áp dụng pháp luật.
-
 Câu 54: Việc Phòng Tài chính - Kế hoạch huyện X tiếp nhận hồ sơ đăng ký hộ kinh doanh của anh K là hình thức thực hiện pháp luật nào sau đây?
 A. Sử dụng pháp luật. 
 B. Tuân theo pháp luật.
 *C. Áp dụng pháp luật. 
 D. Thi hành pháp luật. 
-
 Câu 55: Hoạt động xét xử của Toà án là hình thức thực hiện pháp luật nào sau đây?
 A. Thi hành pháp luật.
 B. Sử dụng pháp luật.
 *C. Áp dụng pháp luật.
 D. Tuân theo pháp luật.
-
 Câu 56: Việc Doanh nghiệp tư nhân C nộp thuế đầy đủ, đúng thời hạn theo quy định của pháp luật là thực hiện pháp luật theo hình thức nào sau đây?
 A. Áp dụng pháp luật.
 B. Tuân theo pháp luật.
 *C. Thi hành pháp luật.
 D. Sử dụng pháp luật.
-
 Câu 57: Cảnh sát giao thông xử phạt người điều khiển xe máy không đội mũ bảo hiểm là thực hiện pháp luật theo hình thức nào sau đây?
 A. Tuân theo pháp luật.
 B. Sử dụng pháp luật.
 *C. Áp dụng pháp luật.
 D. Thi hành pháp luật.
-
 Câu 58: Hành vi không săn bắt động vật quý hiếm là
 A. sử dụng pháp luật.
 B. áp dụng pháp luật.
 *C. tuân theo pháp luật.
 D. thi hành pháp luật.
-
 Câu 59: Hành vi không làm tiền giả là 
 A. sử dụng pháp luật.
 B. thi hành pháp luật.
 *C. tuân theo pháp luật.
 D. áp dụng pháp luật.
-
 Câu 60: Hành vi tuân theo pháp luật được thực hiện dưới dạng
 A. thực hiện quyền và nghĩa vụ.
 B. hành động.
 *C. không hành động.
 D. hoạt động có mục đích.
-
 Câu 61: Cấu thành vi phạm pháp luật gồm những yếu tố nào sau đây?
 A. Mặt bên trong, mặt bên ngoài, động cơ, mục đích.
 B. Chủ thể, khách thể, nội dung.
 C. Chủ thể, hành vi khách quan, thiệt hại gây ra.
 *D. Mặt chủ quan, mặt khách quan, chủ thể, khách thể.
-
 Câu 62: Động cơ của vi phạm pháp luật là
 A. kết quả mà chủ thể vi phạm pháp luật muốn đạt được.
 B. mục tiêu mà chủ thể vi phạm pháp luật nhắm tới.
 C. thiệt hại mà chủ thể vi phạm pháp luật mong muốn đạt được.
 *D. lý do thúc đẩy chủ thể thực hiện hành vi vi phạm pháp luật.
-
 Câu 63: Loại lỗi nào có tính chất nguy hiểm nhất?
 A. Vô ý do cẩu thả.
 B. Cố ý gián tiếp.
 C. Vô ý vì quá tự tin.
 *D. Cố ý trực tiếp.
-
 Câu 64: Tất cả các hành vi vi phạm pháp luật đều có thể bị áp dụng
 A. trách nhiệm kỉ luật.
 B. trách nhiệm hành chính.
 C. trách nhiệm hình sự.
 *D. trách nhiệm pháp lý.
-
 Câu 65: Năng lực trách nhiệm pháp lý là
 A. nghĩa vụ chịu trách nhiệm pháp lý của chủ thể.
 B. độ tuổi chịu trách nhiệm pháp lý của chủ thể.
 C. hành vi chịu trách nhiệm pháp lý của chủ thể.
 *D. khả năng chịu trách nhiệm pháp lý của chủ thể.
-
 Câu 66: Mặt khách quan của vi phạm pháp luật là
 A. những thiệt hại do chủ thể gây ra.
 B. những ý định thực hiện hành vi vi phạm pháp luật.
 C. những điều xảy ra độc lập bên ngoài chủ thể vi phạm pháp luật.
 *D. những biểu hiện ra bên ngoài của vi phạm pháp luật.
-
 Câu 67: Kết quả cuối cùng mà chủ thể mong muốn đạt được khi thực hiện hành vi vi phạm pháp luật là
 A. thủ đoạn.
 B. động cơ.
 C. mục tiêu.
 *D. mục đích.
-
 Câu 68: Khi xem xét mặt khách quan của vi phạm pháp luật, yếu tố nào bắt buộc phải xác định?
 A. Năng lực trách nhiệm pháp lý.
 B. Sự thiệt hại của xã hội.
 C. Công cụ gây thiệt hại.
 *D. Hành vi trái pháp luật.
-
 Câu 69: Trong cấu thành vi phạm pháp luật, những quan hệ xã hội được pháp luật bảo vệ bị hành vi vi phạm pháp luật xâm hại được gọi là
 A. chủ quan.
 B. chủ thể.
 C. khách quan.
 *D. khách thể.
-
 Câu 70: Yếu tố lỗi trong vi phạm pháp luật bao gồm
 A. cố ý trực tiếp và cố ý gián tiếp. 
 B. trực tiếp và gián tiếp.
 C. Vô ý vì quá tự tin và vô ý do cẩu thả.
 *D. cố ý và vô ý.
-
 Câu 71: Y tá M nhầm lẫn trong việc truyền dịch cho bệnh nhân K, dẫn đến K bị lên cơn co giật, gây ảnh hưởng xấu đến sức khoẻ. Lỗi của M thuộc loại nào sau đây?
 A. Vô ý vì quá tự tin. 
 B. Cố ý trực tiếp.
 C. Cố ý gián tiếp.
 *D. Vô ý do cẩu thả.
-
 Câu 72: S tổ chức đánh bạc trái phép nhằm mục đích thu lời. Lỗi của S thuộc loại nào sau đây?
 A. Vô ý do cẩu thả 
 B. Cố ý gián tiếp.
 C. Vô ý vì quá tự tin.
 *D. Cố ý trực tiếp.
-
 Câu 73: Công ty cổ phần CTC không công bố thông tin theo quy định của pháp luật nên bị xử phạt vi phạm hành chính. Chủ thể vi phạm pháp luật là
 A. người đại diện theo pháp luật công ty cổ phần CTC. 
 B. Tổng Giám đốc công ty cổ phần CTC. 
 C. Hội đồng quản trị công ty cổ phần CTC.  
 *D. Công ty cổ phần CTC. 
-
 Câu 74: N đang ngồi tại quán nhậu thì bị M cầm dao xông tới đâm tử vong tại chỗ vì M nghi ngờ N ngoại tình với vợ mình. Hành vi nào sau đây có mối quan hệ nhân quả với cái chết của N? 
 A. M ghen tuông.
 B. N có quan hệ bất chính với vợ M.
 C. M cầm dao xông tới N. 
 *D. M cầm dao đâm N.
-
 Câu 75: Công ty K bị xử phạt hành chính vì kinh doanh thực phẩm quá hạn sử dụng. Yếu tố thuộc mặt khách quan của vi phạm pháp luật này là 
 A. sức khoẻ của người tiêu dùng bị ảnh hưởng. 
 B. mục đích trục lợi bất chính. 
 C. lỗi cố ý trực tiếp. 
 *D. hành vi kinh doanh thực phẩm quá hạn sử dụng.
-
 Câu 76: X ký hợp đồng thuê phòng trọ của Y trong thời hạn một năm nhưng vì có nhu cầu bán nhà nên sau 6 tháng Y đơn phương chấm dứt hợp đồng với X. Hành vi của Y thuộc loại vi phạm pháp luật nào sau đây?
 A. Kỷ luật. 
 B. Hình sự.
 C. Hành chính.
 *D. Dân sự.
-
 Câu 77: Công chức K thường xuyên đi làm muộn không có lý do. K đã có dấu hiệu vi phạm
 A. hình sự. 
 B. hành chính. 
 C. dân sự. 
 *D. kỷ luật. 
-
 Câu 78: Hành vi nào sau đây có dấu hiệu vi phạm pháp luật hình sự?
 A. H và G không đăng ký kết hôn. 
 B. H đi xe máy không đội mũ bảo hiểm. 
 C. L lập di chúc không để lại tài sản cho vợ. 
 *D. N lừa đảo chiếm đoạt 3 triệu đồng của X.
-
 Câu 79: P lừa đảo chiếm đoạt 05 triệu đồng của L. Hành vi của P có dấu hiệu vi phạm pháp luật nào sau đây? 
 A. Dân sự và kỷ luật.
 B. Hành chính và dân sự.
 C. Hình sự và kỷ luật.
 *D. Hình sự và dân sự.
-
 Câu 80: M đâm H bị thương nhằm cướp tài sản. Hành vi của M thuộc loại lỗi nào sau đây?
 A. Vô ý do cẩu thả. 
 B. Cố ý gián tiếp.
 C. Vô ý vì quá tự tin.
 *D. Cố ý trực tiếp.
-
 Câu ́́́81: Hậu quả bất lợi do Nhà nước áp dụng đối với chủ thể vi phạm pháp luật được gọi là
 A. thi hành pháp luật.
 B. thực hiện pháp luật.
 C. áp dụng pháp luật.
 *D. trách nhiệm pháp lý.
-
 Câu 82: Căn cứ thực tế để truy cứu trách nhiệm pháp lý là
 A. hậu quả của hành vi.
 B. hành vi trái pháp luật. 
 C. năng lực trách nhiệm pháp lý.
 *D. vi phạm pháp luật.
-
 Câu 83: Chủ thể thực hiện hành vi trái pháp luật nhưng không bị truy cứu trách nhiệm pháp lý trong trường hợp nào sau đây?
 A. Đang sử dụng chất kích thích
 B. Đang trong trạng thái tinh thần bị kích động mạnh.
 C. Chưa đủ 18 tuổi.
 *D. Không có năng lực trách nhiệm pháp lý.
-
 Câu 84: Loại trách nhiệm pháp lý nghiêm khắc nhất là
 A.  kỷ luật.
 B.  hành chính.
 C.  dân sự.
 *D.  hình sự.
-
 Câu 85: Sinh viên sử dụng tài liệu trái phép trong phòng thi bị giám thị lập biên bản đình chỉ thi. Loại trách nhiệm pháp lý mà sinh viên phải thực hiện là
 A. dân sự.
 B.  hình sự.
 C. hành chính.
 *D.  kỷ luật.
-
 Câu 86: Trách nhiệm pháp lý gồm những loại nào sau đây? 
 A. Hình phạt, xử phạt, các biện pháp tư pháp.
 B. Bồi thường thiệt hại và bồi hoàn.
 C. Bồi thường thiệt hại trong hợp đồng và ngoài hợp đồng.
 *D. Vật chất, dân sự, hành chính, kỷ luật, hình sự.
-
 Câu 87: Loại trách nhiệm pháp lý mà một bên của hợp đồng phải thực hiện khi vi phạm hợp đồng là 
 A. hành chính.
 B. vật chất.
 C. kỷ luật.
 *D. dân sự.
-
 Câu 88: Loại trách nhiệm pháp lý do cơ quan nhà nước có thẩm quyền áp dụng đối với chủ thể vi phạm quy định về quản lý nhà nước mà không phải tội phạm là
 A. kỷ luật.
 B. dân sự.
 C. hình sự.
 *D. hành chính.
-
 Câu 89: Mục đích chính của việc truy cứu trách nhiệm pháp lý là
 *A. điều chỉnh hành vi của chủ thể vi phạm pháp luật.
 B. giáo dục chủ thể vi phạm pháp luật.
 C. tuyên truyền, phổ biến pháp luật.
 D. trừng phạt chủ thể vi phạm pháp luật.
-
 Câu 90: Nguyên tắc nào sau đây phải được đảm bảo khi truy cứu trách nhiệm pháp lý?
 A. Bình đẳng.
 B. Tập trung.
 C. Thỏa thuận.
 *D. Pháp chế.
-
 Câu 91: S (17 tuổi) bị mất năng lực hành vi dân sự, trong khi tức giận đã gây ra thương tích cho K nhưng S không bị truy cứu trách nhiệm pháp lý vì
 A. S chưa thành niên.
 B. S đang trong trạng thái tinh thần bị kích động mạnh.
 *C. S không có năng lực trách nhiệm pháp lý.
 D. K là người có lỗi trước.
-
 Câu 92: M điều khiển xe máy vượt đèn đỏ nên bị cảnh sát giao thông phạt 600.000 đồng. Loại trách nhiệm pháp lý mà M bị áp dụng là
 A. vật chất.
 B. hình sự.
 *C. hành chính.
 D. dân sự.
-
 Câu 93: Q điều khiển xe tải vượt đèn đỏ tông vào H khiến H bị thương nên Tòa án tuyên phạt Q 02 năm tù. Q đã bị áp dụng loại trách nhiệm pháp lý
 A. vật chất.
 B. hành chính.
 *C. hình sự.
 D. dân sự.
-
 Câu 94: Công ty X chậm thực hiện nghĩa vụ thanh toán hợp đồng nên bị Tòa án buộc phải trả số nợ gốc cùng với lãi suất trong thời gian chậm trả. Loại trách nhiệm pháp lý mà công ty X bị áp dụng là
 A. hành chính.
 B. vật chất.
 *C. dân sự.
 D. hình sự.
-
 Câu 95: Anh Q là viên chức bệnh viện S. Do thực hiện không đúng nhiệm vụ được giao nên Giám đốc bệnh viện S ra quyết định khiển trách đối với anh Q. Loại trách nhiệm pháp lý mà Q bị áp dụng là
 A. vật chất.
 B. dân sự.
 *C. kỷ luật.
 D. hành chính.
-
 Câu 96: V là nhân viên công ty may mặc. Vì thực hiện không đúng quy định phòng cháy chữa cháy nên V làm cháy một kiện hàng của công ty và phải bồi thường giá trị kiện hàng đó. Loại trách nhiệm pháp lý mà V bị áp dụng là
 A. dân sự.
 B. kỷ luật.
 *C. vật chất.
 D. hành chính.
-
 Câu 97: Anh H là công chức xã Y phạm tội nên bị Tòa án tuyên phạt 02 năm tù và Chủ tịch Ủy ban nhân dân xã Y ra quyết định buộc thôi việc. Những loại trách nhiệm pháp lý đã áp dụng đối với anh H là
 A. kỷ luật và hành chính.
 B. hình sự và dân sự.
 *C. hình sự và kỷ luật.
 D. hành chính và hình sự.
-
 Câu 98: Q cố ý làm hư hỏng chiếc xe máy của H. Tòa án tuyên phạt Q 01 năm tù và buộc bồi thường 30 triệu đồng cho H. Những loại trách nhiệm pháp lý mà Q bị áp dụng là
 A. hình sự và vật chất.
 B. hình sự và kỷ luật.
 *C. hình sự và dân sự.
 D. hình sự và hành chính.
-
 Câu 99: T có hành vi vu khống đối với H nên bị Tòa án tuyên phạt 20 triệu đồng. Loại trách nhiệm pháp lý mà T bị áp dụng là
 *A. dân sự.
 B. hành chính.
 C. hình sự.
 D. vật chất.
-
 Câu 100: X điều khiển xe máy mà không có giấy phép lái xe nên bị cảnh sát giao thông phạt 800 nghìn đồng. Loại trách nhiệm pháp lý mà X bị áp dụng là
 A. dân sự.
 B. kỷ luật.
 *C.  hành chính.
 D. vật chất.
-
 Câu 101: Văn bản quy phạm pháp luật nào sau đây quy định về tội phạm và hình phạt? 
 A. Bộ luật Dân sự.
 B. Bộ luật Tố tụng hình sự.
 *C. Bộ luật Hình sự.
 D. Bộ luật Tố tụng dân sự.
-
 Câu 102: Luật Hình sự điều chỉnh quan hệ xã hội giữa
 A. người phạm tội và pháp nhân phạm tội với nhau.
 B. người phạm tội và người bị thiệt hại. 
 *C. người hoặc pháp nhân thương mại phạm tội với Nhà nước.
 D. bị can, bị cáo, bị hại với những người khác.
-
 Câu 103: Nội dung nào sau đây thể hiện nhiệm vụ của ngành Luật Hình sự?
 A. Tạo tính pháp lý cho các giao dịch.
 B. Làm rõ tội phạm, người phạm tội.
 *C. Bảo vệ quyền con người, quyền công dân.
 D. Xây dựng các chuẩn mực pháp lý.
-
 Câu 104: Quy định "Chỉ người nào phạm một tội đã được Bộ luật Hình sự quy định mới phải chịu trách nhiệm hình sự" thể hiện nguyên tắc nào của Luật Hình sự?
 A. Nhân đạo.
 B. Dân chủ.
 *C. Pháp chế.
 D. Hành vi.
-
 Câu 105: Việc quy định nhiều tình tiết giảm nhẹ, nhiều chính sách khoan hồng đối với người phạm tội thể hiện nguyên tắc nào của Luật Hình sự?
 A. Dân chủ.
 B. Pháp chế.
 *C. Nhân đạo.
 D. Hành vi.
-
 Câu 106: Trách nhiệm hình sự chỉ đặt ra đối với hành vi xâm hại đến các quan hệ xã hội được pháp luật hình sự bảo vệ thể hiện nguyên tắc nào của Luật Hình sự?
 A. Nhân đạo.
 B. Pháp chế.
 *C. Hành vi.
 D. Dân chủ.
-
 Câu 107: Việc đảm bảo cho mọi công dân tham gia đấu tranh phòng chống tội phạm thể hiện nguyên tắc nào của Luật Hình sự?
 A. Pháp chế.
 B. Hành vi.
 *C. Dân chủ.
 D. Nhân đạo.
-
 Câu 108: Trách nhiệm hình sự phải phù hợp với mức độ nguy hiểm của hành vi, đặc điểm nhân thân của người phạm tội. Điều này thể hiện nguyên tắc nào của Luật Hình sự?
 A. Nhân đạo, bảo vệ quyền con người.
 B. Phân hóa trách nhiệm hình sự.
 *C. Cá thể hóa trách nhiệm hình sự và hình phạt.
 D. Dân chủ xã hội chủ nghĩa.
-
 Câu 109: Sự kiện pháp lý nào làm phát sinh quan hệ pháp luật hình sự? 
 A. Phát sinh các tình huống thuận lợi để phạm tội.
 B. Hình thành suy nghĩ tiêu cực đối với xã hội.
 *C. Thực hiện hành vi phạm tội trên thực tế.
 D. Phát hiện tội phạm từ các cơ quan có thẩm quyền.
-
 Câu 110: Ngành Luật Hình sự sử dụng phương pháp điều chỉnh đặc trưng nào sau đây?
 A. Thương lượng - bình đẳng.
 B. Phối hợp - chế ước.
 *C. Quyền uy - phục tùng.
 D. Hòa giải - tự quyết định.
-
 Câu 111: Đặc điểm nào sau đây là của tội phạm?
 A. Phải gây thiệt hại cho xã hội.
 B. Luôn phải chịu hình phạt.
 *C. Hành vi nguy hiểm cho xã hội.
 D. Do người đủ tuổi thực hiện.
-
 Câu 112: Tội phạm có đặc điểm nào sau đây?
 A. Phải xâm hại lợi ích của Nhà nước.
 B. Luôn thực hiện với lỗi cố ý.
 *C. Hành vi trái pháp luật hình sự.
 D. Do cá nhân thực hiện.
-
 Câu 113: Cơ quan nhà nước nào sau đây được áp dụng hình phạt?
 A. Viện kiểm sát.
 B. Quốc hội.
 *C. Tòa án.
 D. Cơ quan điều tra.
-
 Câu 114: Theo Luật Hình sự, trường hợp có từ hai người trở lên cố ý cùng thực hiện một tội phạm thì gọi là
 A. tái phạm nguy hiểm.
 B. tái phạm.
 *C. đồng phạm.
 D. phạm tội.
-
 Câu 115: Theo Luật Hình sự, độ tuổi thấp nhất đối với người phạm tội là
 A. đủ 16 tuổi.
 B. đủ 15 tuổi.
 *C. đủ 14 tuổi.
 D. đủ 18 tuổi.
-
 Câu 116: Trừ trường hợp pháp luật có quy định khác, độ tuổi tối thiểu phải chịu trách nhiệm hình sự về mọi tội phạm là
 A. đủ 15 tuổi.
 B. đủ 14 tuổi.
 *C. đủ 16 tuổi.
 D. đủ 18 tuổi.
-
 Câu 117: Trường hợp có hai người trở lên cố ý cùng thực hiện một tội phạm, thì người tạo điều kiện tinh thần hoặc vật chất cho 
 việc thực hiện tội phạm được gọi là người
 A. tổ chức.
 B. thực hành.
 *C. giúp sức.
 D. xúi giục.
-
 Câu 118: Mục đích của các biện pháp tư pháp là 
 A. giáo dục người vi phạm. 
 B. trừng trị người phạm tội. 
 *C. hỗ trợ hoặc thay thế hình phạt. 
 D. thúc đẩy hòa giải cộng đồng. 
-
 Câu 119: Mức cao nhất của hình phạt tù có thời hạn là
 A. 40 năm.
 B. 30 năm.
 *C. 20 năm.
 D. 50 năm.
-
 Câu 120: Mức thấp nhất của hình phạt cải tạo không giam giữ là 
 A. 09 tháng.
 B. 03 tháng.
 *C. 06 tháng.
 D. 01 năm.
-
 Câu 121: Loại hình phạt nào sau đây khi xét xử không áp dụng đối với người phạm tội là phụ nữ có thai?
 A. Tù chung thân.
 *B. Tử hình.
 C. Quản chế.
 D. Cấm cư trú.
-
 Câu 122: Chủ thể nào sau đây có thể là chủ thể của quan hệ pháp luật hình sự?
 A. Doanh nghiệp tư nhân Y.
 *B. Công ty cổ phần X.
 C. Cơ quan nhà nước H.
 D. Hộ gia đình ông K.
-
 Câu 123: Loại trách nhiệm hình sự nào sau đây là hình phạt?
 A. Bồi thường thiệt hại.
 *B. Tịch thu tài sản.
 C. Công khai xin lỗi.
 D. Bắt buộc chữa bệnh.
-
 Câu 124: Loại hình phạt nào sau đây có thể áp dụng là hình phạt chính hoặc hình phạt bổ sung?
 A. Cảnh cáo.
 *B. Trục xuất.
 C. Cấm cư trú.
 D. Quản chế.
-
 Câu 125: Loại trách nhiệm pháp lý nào sau đây không phải là hình phạt?
 A. Cấm cư trú.
 *B. Khiển trách.
 C. Cảnh cáo.
 D. Quản chế.
-
 Câu 126: Loại hình phạt nào sau đây có thể áp dụng là hình phạt chính hoặc hình phạt bổ sung?
 A. Cải tạo không giam giữ.
 *B. Phạt tiền.
 C. Cấm huy động vốn.
 D. Tịch thu tài sản.
-
 Câu 127: Loại hình phạt nào sau đây có thể áp dụng đối với người phạm tội và pháp nhân thương mại phạm tội?
 A. Cải tạo không giam giữ.
 *B. Phạt tiền.
 C. Cấm huy động vốn.
 D. Tịch thu tài sản.
-
 Câu 128: Loại hình phạt nào sau đây không áp dụng đối với người dưới 18 tuổi phạm tội?
 A. Tù có thời hạn.
 *B. Tù chung thân.
 C. Cải tạo không giam giữ.
 D. Phạt tiền.
-
 Câu 129: Hình phạt nào sau đây là hình phạt bổ sung đối với pháp nhân thương mại phạm tội?
 A. Đình chỉ hoạt động.
 *B. Cấm huy động vốn.
 C. Tịch thu tài sản.
 D. Cải tạo không giam giữ.
-
 Câu 130: Nội dung nào sau đây được xem xét để loại trừ trách nhiệm hình sự đối với người đã thực hiện hành vi nguy hiểm cho xã hội?
 A. Hạn chế nhận thức.
 *B. Không có lỗi.
 C. Tính công vụ.
 D. Chưa có hậu quả.
-
 Câu 131: Bộ luật Hình sự quy định: "Người nào cướp giật tài sản của người khác, thì bị phạt tù từ 01 năm đến 05 năm tù". Tội phạm trong trường hợp trên thuộc loại nào sau đây?
 A. Ít nghiêm trọng.
 *B. Nghiêm trọng.
 C. Rất nghiêm trọng.
 D. Đặc biệt nghiêm trọng.
-
 Câu 132: Bộ luật Hình sự quy định: "Người nào trốn đi nước ngoài hoặc trốn ở lại nước ngoài nhằm chống chính quyền nhân dân, thì bị phạt tù từ 03 năm đến 12 năm". Tội phạm trong trường hợp trên thuộc loại nào sau đây?
 A. Ít nghiêm trọng.
 *B. Rất nghiêm trọng.
 C. Nghiêm trọng.
 D. Đặc biệt nghiêm trọng.
-
 Câu 133: Bộ luật Hình sự quy định: "Người nào có thẩm quyền mà không truy cứu trách nhiệm hình sự người mà mình biết rõ là có tội, thì bị phạt tù từ 06 tháng đến 03 năm". Tội phạm trong trường hợp trên thuộc loại nào sau đây?
 A. Nghiêm trọng.
 *B. Ít nghiêm trọng.
 C. Rất nghiêm trọng.
 D. Đặc biệt nghiêm trọng.
-
 Câu 134: Bộ luật Hình sự quy định: "Người nào trong khi thi hành công vụ mà làm chết người do dùng vũ lực ngoài những trường hợp pháp luật cho phép, thì bị phạt tù từ 05 năm đến 10 năm". Tội phạm trong trường hợp trên thuộc loại nào sau đây?
 A. Ít nghiêm trọng.
 *B. Rất nghiêm trọng.
 C. Đặc biệt nghiêm trọng.
 D. Nghiêm trọng.
-
 Câu 135: Bộ luật Hình sự quy định: "Người nào mua bán, chiếm đoạt mô hoặc bộ phận cơ thể người khác, thì bị phạt tù từ 03 năm đến 07 năm". Tội phạm trong trường hợp trên thuộc loại nào sau đây?
 A. Ít nghiêm trọng.
 *B. Nghiêm trọng.
 C. Rất nghiêm trọng.
 D. Đặc biệt nghiêm trọng.
-
 Câu 136: Bộ luật Hình sự quy định: "Người nào dùng vũ lực, đe dọa dùng vũ lực hoặc dùng thủ đoạn khác nhằm chiếm đoạt tàu bay hoặc tàu biển, thì bị phạt tù từ 07 năm đến 15 năm". Tội phạm trong trường hợp trên thuộc loại nào sau đây?
 A. Ít nghiêm trọng.
 *B. Rất nghiêm trọng.
 C. Nghiêm trọng.
 D. Đặc biệt nghiêm trọng.
-
 Câu 137: Bộ luật Hình sự quy định: "Người nào huy động, hỗ trợ tiền, tài sản dưới bất kỳ hình thức nào cho tổ chức, cá nhân khủng bố, thì bị phạt tù từ 05 năm đến 10 năm". Tội phạm trong trường hợp trên thuộc loại nào sau đây?
 A. Ít nghiêm trọng.
 *B. Rất nghiêm trọng.
 C. Nghiêm trọng.
 D. Đặc biệt nghiêm trọng.
-
 Câu 138: Bộ luật Hình sự quy định: "Người nào chứa mại dâm, thì bị phạt tù từ 01 năm đến 05 năm". Tội phạm trong trường hợp trên thuộc loại nào sau đây?
 A. Ít nghiêm trọng.
 *B. Nghiêm trọng.
 C. Rất nghiêm trọng.
 D. Đặc biệt nghiêm trọng.
-
 Câu 139: Bộ luật Hình sự quy định: "Người nào cố ý xúc phạm Quốc kỳ, Quốc huy, Quốc ca, thì bị phạt cảnh cáo, cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm". Tội phạm trong trường hợp trên thuộc loại nào sau đây?
 A. Nghiêm trọng.
 *B. Ít nghiêm trọng.
 C. Rất nghiêm trọng.
 D. Đặc biệt nghiêm trọng.
-
 Câu 140: Bộ luật Hình sự quy định: "Người nào nhằm chống chính quyền nhân dân mà phá hoại việc thực hiện các chính sách kinh tế - xã hội, thì bị phạt tù từ 07 năm đến 15 năm". Tội phạm trong trường hợp trên thuộc loại nào sau đây?
 A. Nghiêm trọng.
 *B. Rất nghiêm trọng.
 C. Ít nghiêm trọng.
 D. Đặc biệt nghiêm trọng.
-
 Câu 141: T (20 tuổi) giao cấu thuận tình với K (15 tuổi) làm K có thai. Với hành vi phạm tội giao cấu với người từ đủ 13 tuổi đến dưới 16 tuổi như trên, thì T phải chịu trách nhiệm hình sự trước
 A. K.
 *B. Nhà nước.
 C. Gia đình của K.
 D. Đứa con của T và K.
-
 Câu 142: M (20 tuổi) bị nghiện ma túy nên thường tới nhà K (40 tuổi) để mua ma túy và sử dụng tại đây. H (20 tuổi) là bạn của M biết điều này nhưng không tố giác với cơ quan có thẩm quyền. Chủ thể phạm tội trong trường hợp nói trên là
 *A. M, K, H.
 B. K, H.
 C. M, K.
 D. M, H.
-
 Câu 143: H (20 tuổi) đánh K (16 tuổi) bị thương, giám định thương tật của  K là 15%. Chủ thể của quan hệ pháp luật hình sự này là ai?
 A. K và Nhà nước.
 *B. H và Nhà nước.
 C. H, K và Nhà nước.
 D. H và K.
-
 Câu 144: Công ty T phạm tội trốn thuế với số tiền 250 triệu đồng. Chủ thể của quan hệ pháp luật hình sự này là ai?
 A. Công ty T và Nhân dân.
 *B. Công ty T và Nhà nước.
 C. Công ty T và cơ quan thuế.
 D. Công ty T và người lãnh đạo của công ty.
-
 Câu 145: M (12 tuổi), N (13 tuổi), T (17 tuổi) bị Công an bắt quả tang khi đang trộm hai lượng vàng ở nhà ông S. Người phạm tội trong trường hợp này là ai?
 A. M.
 *B. T.
 C. N.
 D. M, N, T.
-
 Câu 146: Do mâu thuẫn cá nhân, H (19 tuổi) rủ Y (18 tuổi), K (17 tuổi), P (15 tuổi) đi đánh Q (19 tuổi) làm Q bị thương (giám định thương tật là 12%). Đồng phạm của tội cố ý gây thương tích trong trường hợp trên gồm những ai?
 A. H, Y, K, P.
 *B. H, Y, K.
 C. H, Y, K, Q.
 D. H, P, Q.
-
 Câu 147: C giơ súng định bắn chết D nhưng lại nghĩ người này đã từng giúp đỡ mình nên không bắn nữa. Theo Luật Hình sự, trường hợp tự ý nửa chừng chấm dứt việc phạm tội giết người của C sẽ được
 A. giảm trách nhiệm hình sự.
 *B. miễn trách nhiệm hình sự.
 C. giảm hình phạt.
 D. xóa án tích.
-
 Câu 148: T (27 tuổi) bị bắt ngay sau khi mua dao nhằm thực hiện hành vi giết người. T phạm tội ở giai đoạn nào?
 A. Phạm tội chưa đạt đã hoàn thành.
 *B. Chuẩn bị phạm tội.
 C. Phạm tội chưa đạt chưa hoàn thành.
 D. Tội phạm hoàn thành.
-
 Câu 149: T (27 tuổi) định trộm cắp tài sản của ông H nhưng mới lẻn vào nhà ông H thì bị ông bắt giữ. T phạm tội ở giai đoạn nào?
 A. Phạm tội chưa đạt đã hoàn thành.
 *B. Phạm tội chưa đạt chưa hoàn thành.
 C. Chuẩn bị phạm tội.
 D. Tội phạm hoàn thành.
-
 Câu 150: T (27 tuổi) đột nhập vào nhà ông H, vừa lấy trộm được hai lượng vàng thì bị ông H bắt giữ. T phạm tội ở giai đoạn nào?
 A. Phạm tội chưa đạt đã hoàn thành.
 *B. Tội phạm hoàn thành.
 C. Phạm tội chưa đạt chưa hoàn thành.
 D. Chuẩn bị phạm tội.
-
 Câu 151: Phương pháp điều chỉnh đặc thù của Luật Hành chính là
 A. thoả thuận.
 B. bình đẳng.
 *C. mệnh lệnh.
 D. phối hợp.
-
 Câu 152: Cơ quan nào sau đây là cơ quan hành chính nhà nước ở địa phương?
 A. Viện kiểm sát nhân dân cấp tỉnh.
 B. Hội đồng nhân dân cấp tỉnh.
 *C. Uỷ ban nhân dân cấp huyện.
 D. Toà án nhân dân cấp huyện.
-
 Câu 153: Cơ quan hành chính nhà nước nào sau đây  có thẩm quyền chung?
 A. Bộ Xây dựng.
 B. Bộ Giáo dục và Đào tạo.
 *C. Chính phủ.
 D. Thanh tra Chính phủ.
-
 Câu 154: Cơ quan nào sau đây là cơ quan hành chính nhà nước?
 A. Toà án nhân dân.
 B. Quốc hội.
 *C. Bộ Ngoại giao.
 D. Viện kiểm sát nhân dân.
-
 Câu 155: Quan hệ xã hội nào sau đây thuộc đối tượng điều chỉnh của Luật Hành chính?
 A. Quan hệ giữa nhà nước và người phạm tội.
 B. Quan hệ giữa người lao động và người sử dụng lao động.
 *C. Quan hệ hình thành trong lĩnh vực quản lý hành chính nhà nước.
 D. Quan hệ hợp đồng mua bán nhà ở.
-
 Câu 156: Cơ quan hành chính nhà nước nào sau đây tổ chức và hoạt động theo chế độ thủ trưởng?
 A. Uỷ ban nhân dân cấp tỉnh.
 B. Chính phủ.
 *C. Bộ Xây dựng.
 D. Uỷ ban nhân dân cấp huyện.
-
 Câu 157: Cơ quan nào sau đây nằm trong cơ cấu tổ chức của Bộ?
 A. Chi cục.
 B. Cơ quan ngang bộ.
 *C. Vụ.
 D. Sở.
-
 Câu 158: Chức danh nào sau đây thuộc cơ cấu thành viên của Chính phủ?
 A. Thứ trưởng.
 B. Vụ trưởng.
 *C. Bộ trưởng.
 D. Cục trưởng.
-
 Câu 159: Cơ cấu tổ chức của Chính phủ gồm
 A. cơ quan ngang bộ và cơ quan thuộc Chính phủ.
 *B. bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ.
 C. bộ và cơ quan ngang bộ.
 D. bộ và cơ quan thuộc Chính phủ.
-
 Câu 160: Chính phủ có địa vị pháp lý nào sau đây?
 A. Cơ quan điều hành cao nhất.
 B. Cơ quan quyền lực nhà nước cao nhất.
 *C. Cơ quan hành chính nhà nước cao nhất.
 D. Cơ quan chấp hành cao nhất.
-
 Câu 161: Quan hệ pháp luật hành chính được điều chỉnh bởi
 A. tập quán pháp luật.
 B. quy phạm pháp luật.
 *C. quy phạm pháp luật hành chính.
 D. sự thoả thuận giữa các bên.
-
 Câu 162: Quan hệ pháp luật hành chính có đặc điểm nào sau đây?
 A. Các bên trong quan hệ đều phải sử dụng quyền lực nhà nước.
 B. Quan hệ phát sinh từ sự thoả thuận của các bên.
 *C. Quan hệ phát sinh trong lĩnh vực quản lý hành chính nhà nước.
 D. Tranh chấp chỉ được giải quyết bằng thủ tục hành chính.
-
 Câu 163: Khách thể của quan hệ pháp luật hành chính là
 A. sự kiện pháp lý hành chính.
 B. quyền và nghĩa vụ pháp lý hành chính của các bên.
 *C. trật tự quản lý hành chính nhà nước.
 D. năng lực hành vi hành chính.
-
 Câu 164: Công dân Việt Nam vi phạm hành chính với lỗi cố ý, thì độ tuổi tối thiểu bị xử phạt là từ đủ
 A. 16 tuổi. 
 B. 15 tuổi. 
 *C. 14 tuổi. 
 D. 18 tuổi.
-
 Câu 165: Hình thức nào sau đây là hình thức xử phạt vi phạm hành chính?
 A. Nhắc nhở.
 B. Cải tạo không giam giữ.
 *C. Cảnh cáo.
 D. Đưa vào trường giáo dưỡng.
-
 Câu 166: Biện pháp nào sau đây là biện pháp khắc phục hậu quả trong xử lý vi phạm hành chính?
 A. Tước quyền sử dụng giấy phép có thời hạn.
 B. Giáo dục tại xã, phường, thị trấn.
 *C. Buộc tháo dỡ công trình xây dựng trái phép.
 D. Tịch thu tang vật, phương tiện vi phạm hành chính.
-
 Câu 167: Biện pháp nào sau đây là biện pháp thay thế xử lý vi phạm hành chính?
 A. Phạt tiền.
 B. Cảnh cáo.
 *C. Nhắc nhở.
 D. Trục xuất.
-
 Câu 168: Đối với vụ việc đơn giản thì thời hạn ra quyết định xử phạt vi phạm hành chính là bao lâu kể từ ngày lập biên bản vi phạm?
 A. 30 ngày.
 B. 15 ngày.
 *C. 7 ngày.
 D. 20 ngày.
-
 Câu 169: Hình thức xử phạt vi phạm hành chính nào sau đây chỉ áp dụng đối với người nước ngoài?
 A. Phạt tiền.
 B. Cảnh cáo.
 *C. Trục xuất.
 D. Nhắc nhở.
-
 Câu 170: Hình thức xử lý vi phạm hành chính nào sau đây chỉ áp dụng đối với cá nhân?
 A. Đình chỉ hoạt động có thời hạn.
 B. Buộc tháo dỡ công trình xây dựng trái phép.
 *C. Giáo dục tại xã, phường, thị trấn.
 D. Tước quyền sử dụng giấy phép có thời hạn.
-
 Câu 171: X (15 tuổi) lái xe đạp ngược chiều bị cảnh sát giao thông nhắc nhở. Chế tài áp dụng đối với X thuộc loại biện pháp nào sau đây?
 A. Cảnh cáo nhưng có sự giảm nhẹ.
 B. Khắc phục hậu quả.
 *C. Thay thế xử lý vi phạm hành chính.
 D. Xử lý hành chính.
-
 Câu 172: Y lái xe gắn máy nhưng không đội mũ bảo hiểm nên bị cảnh sát giao thông phạt 300.000 đồng. Y đã bị áp dụng hình thức  
 A. xử lý hành chính.
 B. xử phạt bổ sung.
 *C. xử phạt chính.
 D. khắc phục hậu quả.
-
 Câu 173: Tịch thu tang vật, phương tiện vi phạm hành chính là biện pháp xử phạt hành chính được áp dụng khi cá nhân, tổ chức vi phạm thuộc loại lỗi nào sau đây?
 A. Cố ý gián tiếp.
 B. Vô ý.
 *C. Cố ý.
 D. Vô ý do cẩu thả.
-
 Câu 174: M (21 tuổi) nghiện ma tuý nhưng không có nơi cư trú ổn định, nên bị Toà án nhân dân áp dụng biện pháp đưa vào cơ sở cai nghiện bắt buộc. Biện pháp này là
 A. thay thế xử lý vi phạm hành chính.
 B. xử phạt hành chính.
 *C. xử lý hành chính.
 D. khắc phục hậu quả.
-
 Câu 175: Giám đốc công an tỉnh X ra quyết định trục xuất ông K (quốc tịch Anh). Đây là hình thức
 A. khắc phục hậu quả.
 B. xử phạt bổ sung.
 *C. xử phạt chính.
 D. xử lý hành chính.
-
 Câu 176: H lái xe máy vượt đèn đỏ nên bị cảnh sát giao thông xử phạt vi phạm hành chính. Nội dung của quan hệ pháp luật trên là
 A. H và chiến sĩ cảnh sát giao thông.
 B. trật tự an toàn giao thông đường bộ.
 *C. quyền, nghĩa vụ của H và chiến sĩ cảnh sát giao thông.
 D. hành vi vượt đèn đỏ của H.
-
 Câu 177: Biện pháp xử phạt vi phạm hành chính nào không áp dụng đối với công dân Việt Nam?
 A. Cảnh cáo.
 B. Phạt tiền.
 *C. Trục xuất.
 D. Tịch thu tang vật.
-
 Câu 178: Nếu không có tình tiết tăng nặng hay giảm nhẹ thì mức tiền phạt cụ thể trong xử phạt vi phạm hành chính là
 A. mức cao nhất của khung tiền phạt.
 B. mức thấp nhất của khung tiền phạt.
 *C. mức trung bình của khung tiền phạt.
 D. hai phần ba mức cao nhất của khung tiền phạt.
-
 Câu 179: Ông H (75 tuổi) bị cảnh sát giao thông xử phạt cảnh cáo vì buộc súc vật vào biển báo giao thông đường bộ. Cảnh cáo trong trường hợp trên là hình thức
 A. xử lý hành chính.
 B. khắc phục hậu quả.
 *C. xử phạt chính.
 D. xử phạt bổ sung.
-
 Câu 180: X bán hoa quả ở nơi cấm bán hàng rong, Y và Z đang mua hoa quả của X thì cảnh sát giao thông phát hiện. Ai bị xử phạt vi phạm hành chính trong trường hợp này?
 A. Z.
 B. X, Y, Z.
 *C. X.
 D. Z và Y.
-
 Câu 181: Công ty cổ phần H bị xử phạt 40 triệu đồng, bị tước quyền sử dụng giấy phép 6 tháng, bị tịch thu tang vật vi phạm. Chế tài tịch thu tang vật vi phạm là
 A. xử lý hành chính.
 B. biện pháp khắc phục hậu quả.
 *C. xử phạt hành chính.
 D. thay thế xử lý vi phạm hành chính.
-
 Câu 182: M điều khiển xe vệ sinh môi trường chạy không đúng thời gian quy định nên bị cảnh sát giao thông phạt 1 triệu đồng và tước quyền sử dụng Giấy phép lái xe 2 tháng. Biện pháp tước quyền sử dụng Giấy phép lái xe trong trường hợp trên là
 A. xử lý hành chính.
 B. xử phạt chính.
 *C. xử phạt bổ sung.
 D. thay thế xử lý vi phạm hành chính.
-
 Câu 183: K tự ý thay đổi màu sơn của xe máy không đúng với Giấy đăng ký xe nên bị cảnh sát giao thông xử phạt 200.000 đồng và buộc phải khôi phục lại màu sơn ghi trong Giấy đăng ký xe theo quy định. Chế tài buộc phải khôi phục lại màu sơn là biện pháp nào sau đây?
 A. Thay thế xử lý hành chính.
 B. Xử lý hành chính.
 *C. Khắc phục hậu quả.
 D. Xử phạt bổ sung.
-
 Câu 184: S có hành vi thu tiền vé xe buýt của hành khách là H cao hơn quy định nên bị xử phạt 200.000 đồng và buộc phải nộp lại số lợi bất hợp pháp có được. Chế tài buộc phải nộp lại số lợi bất hợp pháp là biện pháp nào sau đây?
 A. Thay thế xử lý hành chính.
 B. Xử lý hành chính.
 *C. Khắc phục hậu quả.
 D. Xử phạt bổ sung.
-
 Câu 185: Bà L đã mang hóa chất độc hại cấm lưu thông trên xe khách nên bị xử phạt 300.000 đồng và tịch thu hóa chất độc hại. Chế tài tịch thu hoá chất độc hại trên là hình thức
 A. xử lý hành chính.
 B. xử phạt chính.
 *C. xử phạt bổ sung.
 D. thay thế xử lý vi phạm hành chính.
-
 Câu 186: K (17 tuổi), M (12 tuổi), N (13 tuổi) có hành vi gây mất trật tự trong khu dân cư vào lúc 23 giờ. Chủ thể vi phạm hành chính trong trường hợp này là
 A. K và N.
 B. N.
 *C. K.
 D. K, M và N.
-
 Câu 187: Vì có mâu thuẫn với bà X nên T (18 tuổi) đã rủ N (13 tuổi) và L (11 tuổi) ném chất thải, chất bẩn vào nhà bà X. Chủ thể của vi phạm hành chính trên là
 A. L.
 B. N.
 *C. T.
 D. T và N.
-
 Câu 188: Công ty M có hành vi vi phạm về sử dụng thuốc bảo vệ thực vật trong sản xuất thực phẩm nên bị xử phạt 90 triệu đồng, bị đình chỉ hoạt động sản xuất 03 tháng, bị tước quyền sử dụng giấy phép 20 tháng, buộc tiêu huỷ thực phẩm vi phạm. Trong các chế tài trên, biện pháp khắc phục hậu quả là
 A. đình chỉ hoạt động sản xuất 03 tháng
 B. phạt tiền 90 triệu đồng.
 *C. buộc tiêu huỷ thực phẩm vi phạm.
 D. tước quyền sử dụng giấy phép 20 tháng.
-
 Câu 189: Công ty X có hành vi vi phạm về sử dụng phụ gia thực phẩm có chứa kim loại nặng vượt giới hạn cho phép nên bị xử phạt 80 triệu đồng, bị đình chỉ hoạt động sản xuất 4 tháng, bị tước quyền sử dụng giấy phép 20 tháng, buộc tiêu huỷ thực phẩm vi phạm. Trong các chế tài trên, hình thức xử phạt chính là
 A. tước quyền sử dụng giấy phép 20 tháng.
 B. đình chỉ hoạt động sản xuất 04 tháng.
 *C. phạt tiền 80 triệu đồng.
 D. buộc tiêu huỷ thực phẩm vi phạm.
-
 Câu 190: M là là nhân viên phục vụ trên xe buýt do ông N là tài xế điều khiển. M đã tự ý thu tiền vé nhưng không trao vé cho hành khách là bà H, bà K và ông X. Chủ thể của vi phạm hành chính trên là
 A. M, N.
 B. N.
 *C. M.
 D. M, H, K, X.
-
 Câu 191: Đối tượng điều chỉnh của Luật Dân sự là 
-
 
 A. quan hệ nhân thân và quan hệ hợp đồng.
 B. quan hệ nhân thân và quan hệ sở hữu.
 *C. quan hệ nhân thân và quan hệ tài sản.
 D. quyền nhân thân và quyền tài sản.
-
 Câu 192: Theo quy định của Bộ luật Dân sự 2015, tài sản bao gồm
 A. vật chia được và vật không chia được.
 B. động sản và bất động sản.
 *C. vật, tiền, giấy tờ có giá và quyền tài sản.
 D. vật chính và vật phụ.
-
 Câu 193: Năng lực của chủ thể trong quan hệ pháp luật dân sự bao gồm 
 A. năng lực pháp luật dân sự và nhận thức.
 B. năng lực pháp luật dân sự và độ tuổi.
 *C. năng lực pháp luật dân sự 
 và năng lực hành vi dân sự.
 D. năng lực pháp luật dân sự và năng lực trách nhiệm dân sự.
-
 Câu 194:  Khả năng của cá nhân có quyền dân sự và nghĩa vụ dân sự là
 A. năng lực hành vi dân sự.
 B. năng lực trách nhiệm dân sự.
 *C. năng lực pháp luật dân sự.
 D. năng lực chủ thể dân sự.
-
 Câu 195: Văn bản quy phạm pháp luật nào sau đây điều chỉnh quan hệ tài sản và quan hệ nhân thân?
 A. Bộ luật Hình sự 2015.
 B. Bộ luật Tố tụng dân sự 2015.
 *C. Bộ luật Dân sự 2015.
 D. Bộ luật Lao động 2019.
-
 Câu 196: Thời điểm mở thừa kế được quy định trong Bộ luật Dân sự 2015 là thời điểm
 A. phân chia di sản.
 B. công bố di chúc.
 *C. người để lại di sản chết.
 D. người để lại di sản lập di chúc.
-
 Câu 197: Tài sản mà người chết để lại được gọi là
 A. động sản.
 B. di chúc.
 *C. di sản.
 D. di vật.
-
 Câu 198: Người được hưởng tài sản của người chết để lại  gọi là
 A. người thừa hưởng.
 B. người thụ hưởng.
 *C. người thừa kế.
 D. người đại diện.
-
 Câu 199: Quan hệ về thừa kế được điều chỉnh bởi văn bản luật nào sau đây?
 A. Bộ luật Lao động 2019.
 B. Bộ luật Hình sự 2015.
 *C. Bộ luật Dân sự 2015.
-
 D. Bộ luật Tố tụng dân sự 2015.
-
 Câu 200: Những người nào sau đây thuộc hàng thừa kế thứ nhất theo Bộ luật Dân sự 2015? 
 A. Cha đẻ, mẹ đẻ, vợ, chồng, con đẻ của người chết.
 B. Cha, mẹ, vợ, chồng, con chưa thành niên, con đã thành niên.
 *C. Vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, con đẻ, con nuôi của người chết.
 D. Vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi.
-
 Câu 201: Theo quy định của Bộ luật Dân sự 2015, đất đai thuộc loại tài sản nào?
 A. Hoa lợi.
 B. Động sản.
 *C. Bất động sản.
 D. Lợi tức.
-
 Câu 202: Theo quy định của Bộ luật Dân sự 2015, xe máy thuộc loại tài sản nào?
 A. Hoa lợi.
 B. Bất động sản.
 *C. Động sản.
 D. Lợi tức.
-
 Câu 203: Quyền khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản là quyền nào sau đây?
 A. Quyền định đoạt.
 B. Quyền chiếm hữu.
 *C. Quyền sử dụng.
 D. Quyền sở hữu.
-
 Câu 204: Quyền chuyển giao quyền sở hữu tài sản, từ bỏ quyền sở hữu, tiêu dùng hoặc tiêu hủy tài sản là quyền nào sau đây?
 A. Quyền chiếm hữu.
 B. Quyền sở hữu.
 *C. Quyền định đoạt.
 D. Quyền sử dụng.
-
 Câu 205: Theo quy định của Bộ luật Dân sự 2015, người lập di chúc là
 A. thể nhân.
 B. pháp nhân.
 *C. cá nhân.
-
 D. công dân.
-
 Câu 206: Theo quy định của Bộ luật Dân sự 2015, người thừa kế là 
 A. cá nhân, pháp nhân.
 B. cá nhân.
 *C. cá nhân, tổ chức.
 D. pháp nhân.
-
 Câu 207: Việc chiếm hữu mà người chiếm hữu có căn cứ để tin rằng mình có quyền đối với tài sản đang chiếm hữu là
 A. chiếm hữu công khai.
 B. chiếm hữu không ngay tình.
 C. chiếm hữu liên tục.
 *D. chiếm hữu ngay tình.
-
 Câu 208: Độ tuổi tối thiểu của người lập di chúc là từ đủ
 A. 20 tuổi.
 B. 16 tuổi.
 C. 18 tuổi.
 *D.  15 tuổi.
-
 Câu 209: Việc chiếm hữu mà người chiếm hữu biết hoặc phải biết rằng mình không có quyền đối với tài sản đang chiếm hữu là
 A. chiếm hữu công khai.
 B. chiếm hữu ngay tình.
 C. chiếm hữu liên tục.
 *D. chiếm hữu không ngay tình.
-
 Câu 210: Mức hưởng di sản của những người thừa kế không phụ thuộc nội dung di chúc ít nhất bằng bao nhiêu phần của một suất thừa kế nếu di sản được chia theo pháp luật?
 A. hai phần năm.
 B.  một phần ba.
 C.  một phần hai.
 *D. hai phần ba.
-
 Câu 211: Theo Bộ luật Dân sự 2015, người nào sau đây thuộc hàng thừa kế thứ ba của người chết? 
 A. Anh ruột.
 B. Ông nội.
 C. Cháu nội.
 *D. Bác ruột.
-
 Câu 212: Những người thừa kế cùng hàng được hưởng phần di sản bằng nhau khi chia thừa kế theo
 A. diện thừa kế.
 B. di chúc.
 C. hàng thừa kế.
 *D. pháp luật.
-
 Câu 213: Quyền nào sau đây là quyền tài sản? 
 A. Quyền bầu cử.
 B. Quyền khởi kiện.
 C. Quyền nhân thân.
 *D. Quyền sử dụng đất.
-
 Câu 214: Người được chuyển giao quyền chiếm hữu thông qua giao dịch dân sự phù hợp với quy định của pháp luật được gọi là chiếm hữu
 A.  bất hợp pháp.
 B.  không có căn cứ pháp luật.
 *C. hợp pháp.
 D. có căn cứ pháp luật.
-
 Câu 215: Địa điểm mở thừa kế đối với người để lại di sản không xác định được nơi cư trú cuối cùng là nơi
 A. người để lại di sản chết.
 B.  người để lại di sản thường xuyên cư trú.
 C.  người để lại di sản mong muốn.
 *D. có toàn bộ di sản hoặc có phần lớn di sản.
-
 Câu 216: Trong hợp đồng mượn tài sản, bên cho mượn đã chuyển giao quyền nào sau đây cho bên mượn?
 A. Sở hữu và sử dụng.
 B. Sử dụng và định đoạt.
 C.  Chiếm hữu và định đoạt.
 *D. Chiếm hữu và sử dụng.
-
 Câu 217: Theo Bộ luật Dân sự 2015, người được chủ sở hữu ủy quyền quản lý tài sản là người chiếm hữu
 A. có quyền sử dụng.
 B. không có căn cứ pháp luật.
 C. có căn cứ hợp pháp.
 *D. có căn cứ pháp luật.
-
 Câu 218: Đối tượng của quyền sở hữu là
 A.  hành vi.
 B. cá nhân.
 C. pháp nhân.
 *D. tài sản.
-
 Câu 219: Việc từ chối nhận di sản phải được thể hiện 
 A. sau thời điểm để lại di chúc.
 B. sau thời điểm phân chia di sản.
 C. trước thời điểm để lại di chúc.
 *D. trước thời điểm phân chia di sản.
-
 Câu 220: Một trong những điều kiện để di chúc hợp pháp là người lập di chúc phải
 A. có người làm chứng di chúc.
 B. trong tình trạng khoẻ mạnh hoàn toàn.
 *C. minh mẫn, sáng suốt trong khi lập di chúc.
 D. để lại di sản cho người thân thích.
-
 Câu 221: Kể từ thời điểm mở thừa kế thì thời hiệu yêu cầu người thừa kế thực hiện nghĩa vụ về tài sản của người chết để lại là
 A. 5 năm.
 B. 4 năm.
 *C. 3 năm.
 D. 6 năm.
-
 Câu 222: Sản vật tự nhiên mà tài sản mang lại gọi là
 A. lợi nhuận.
 B. lợi tức.
 *C. hoa lợi.
 D. hoa màu.
-
 Câu 223: Trừ trường hợp pháp luật có quy định khác, người có hành vi vi phạm nghiêm trọng nghĩa vụ nuôi dưỡng người để lại di sản thì không có quyền
 A. hưởng dụng.
 B. sở hữu.
 *C. hưởng di sản.
 D. nhận di tặng.
-
 Câu 224: Khoản lợi thu được từ việc khai thác tài sản gọi là
 A. lợi nhuận.
 B. hoa lợi.
 *C. lợi tức.
 D. hoa màu.
-
 Câu 225: Di chúc phát sinh hiệu lực từ thời điểm
 A.  chứng thực.
 B. công chứng.
 *C. mở thừa kế.
 D. ký tên.
-
 Câu 226: Theo Luật Dân sự, di sản bao gồm 
 A. tài sản của người chết được chia theo pháp luật.
 B. tài sản của người chết được định đoạt trong di chúc.
 *C. tài sản riêng của người chết, phần tài sản của người chết trong tài sản chung với người khác.
 D. toàn bộ vật, tiền, giấy tờ có giá, động sản, bất động sản, hoa lợi, lợi tức và quyền tài sản.
-
 Câu 227: Theo quy định của Bộ luật Dân sự 2015, vườn cà phê thuộc loại tài sản nào?
 A. Lợi tức.
 B. Hoa lợi.
 *C. Bất động sản.
 D. Động sản.
-
 Câu 228: Anh P tặng cho chị H một chậu cá cảnh. Anh P đã thực hiện quyền nào sau đây đối với tài sản của mình?
 A. Quyền chiếm hữu.
 B. Quyền sử dụng.
 *C. Quyền định đoạt.
 D. Quyền hưởng dụng.
-
 Câu 229: Trái phiếu Chính phủ thuộc loại tài sản nào sau đây?
 A.  Quyền tài sản.
 B. Lợi tức.
 *C. Giấy tờ có giá.
 D. Vật.
-
 Câu 230: Ông K thu hoạch được 5 tấn xoài. Số xoài này thuộc tài sản nào sau đây?
 A.   Lợi tức.
 B. Hoa màu.
 *C. Hoa lợi.
 D.  Lợi nhuận.
-
 Câu 231: A kết hôn với B và có hai người con là C và D. A chết không để lại di chúc. Tài sản chung của A và B là 900 triệu đồng. Di sản của A được chia là
 A. B = C = D = 300 triệu đồng.
 B. C = D = 450 triệu đồng.
 *C. B = C = D = 150 triệu đồng.
 D. B= 900 triệu.
-
 Câu 232: Ông A có vợ là bà B và hai con chung là C và D. Tài sản chung của A và B là 600 triệu đồng, tài sản riêng của A là 300 triệu đồng. A chết không để lại di chúc. Di sản của A là bao nhiêu?
 A. 900 triệu đồng.
 B. 300 triệu đồng.
 *C. 600 triệu đồng.
 D. 450 triệu đồng.
-
 Câu 233: Ông B có tài sản riêng là căn nhà trị giá 700 triệu đồng, tài sản chung với vợ là mảnh đất trị giá 02 tỷ đồng, nợ chung 600 triệu đồng. Hãy xác định di sản của ông B?
 A.  2,1 tỷ đồng.
 B. 2,7 tỷ đồng.
 *C. 1,4 tỷ đồng .
 D. 1,5 tỷ đồng.
-
 Câu 234: Ông M kết hôn với bà N có tài sản chung là 600 triệu đồng và có hai con chung là K và Y. K kết hôn với T và có hai con chung là G và P. Y kết hôn với L và có hai con chung là V và Q. Ông M chết không để lại di chúc. Người nào sau đây được hưởng thừa kế của ông M?
 A. K, Y, L.
 B. N, K, T.
 *C. N, K, Y.
 D. N, Y, G.
-
 Câu 235: Ông X kết hôn với bà Y và có hai con là E, F. Ông bà có tài sản chung là 500 triệu đồng, tài sản riêng của X là 300 triệu đồng. Di sản của ông X là bao nhiêu? 
 A. 800 triệu đồng.
 B. 450 triệu đồng.
 *C. 550 triệu đồng.
 D. 660 triệu đồng.
-
 Câu 236: Ông N có vợ là bà M, có hai người con là X và Y. Y có con là Y1, Y2.Y chết trước N. Người nào sau đây được hưởng thừa kế thế vị khi ông N qua đời? 
 A. M, Y1, Y2.
 B. M, X.
 *C. Y1, Y2.
 D. X, Y1, Y2.
-
 Câu 237: Ông L có vợ là  bà S. Hai ông bà có căn nhà chung trị giá 300 triệu đồng và mảnh đất 200 triệu đồng. Ông L có một căn nhà được tặng cho riêng trị giá 400 triệu đồng. Di sản của ông L là bao nhiêu?
 A. 400 triệu đồng.
 B. 900 triệu đồng.
 *C. 650 triệu đồng.
 D.  500 triệu đồng.
-
 Câu 238: Ông X có vợ là Y và ba người con chung là T, P, Z . Tài sản chung của X và Y là 600 triệu đồng, tài sản riêng của Y là 300 triệu đồng. Di sản của ông X là bao nhiêu?
 A. 600 triệu đồng.
 B. 900 triệu đồng.
 *C. 300 triệu đồng.
 D. 400 triệu đồng.
-
 Câu 239: Ông M có vợ là bà N và hai con chung là P và Q. P đã kết hôn với X, có con là P1. M chết không để lại di chúc. Người thừa kế theo pháp luật di sản của M là
 A. N, P, Q, P1.
 B. N, P, Q, X.
 *C. N, P, Q.
 D. N, P, Q, X, P1.
-
 Câu 240: Ông M và bà N có hai con là X và H. X kết hôn với V, có hai con là Y (chưa thành niên) và K (đã thành niên và có khả năng lao động). Người nào sau đây được hưởng thừa kế không phụ thuộc vào nội dung di chúc của X?
 A. V, Y, K.
 B. M, N, V, Y, K.
 *C. M, N, V, Y.
 D. M, N, Y.
-
 Câu 241: Một trong các nguyên tắc cơ bản của chế độ hôn nhân gia đình Việt Nam hiện nay là 
 A. tự quyết.
 B. tự do.
 *C. tự nguyện.
 D. tự định đoạt.
-
 Câu 242: Theo Luật Hôn nhân và gia đình 2014, chủ thể nào sau đây có trách nhiệm bảo vệ, hỗ trợ trẻ em thực hiện các quyền về hôn nhân và gia đình?
 A. Ủy ban Bảo vệ và Chăm sóc trẻ em Việt Nam.
 B. Hội liên hiệp phụ nữ Việt Nam.
 *C. Nhà nước, xã hội và gia đình.
 D. Ông bà và cha mẹ.
-
 Câu 243: Trường hợp nam nữ xác lập quan hệ vợ chồng trên cơ sở hoàn toàn tự do theo ý chí của họ được gọi là
 A. hôn nhân tiến bộ.
 B. kết hôn bình đẳng.
 *C. tự nguyện kết hôn.
 D. kết hôn tiến bộ.
-
 Câu 244: Những người nào sau đây được hiểu là người cùng dòng máu về trực hệ?
 A. Anh, chị, em con cô, con cậu.
 B. Anh, chị, em ruột.
 *C. Cha, mẹ với con.
 D. Anh, chị, em con chú, con bác.
-
 Câu 245: Sự kiện nào sau đây là sự kiện pháp lý làm phát sinh quan hệ hôn nhân?
 A. Vu quy.
 B. Sống chung.
 *C. Kết hôn.
 D. Thành hôn.
-
 Câu 246: Hôn nhân là
 A. quan hệ giữa các thành viên trong gia đình sau khi kết hôn.
 B. cuộc sống vợ chồng sau khi kết hôn.
 *C. quan hệ giữa vợ và chồng sau khi kết hôn.
 D. xác lập quan hệ vợ chồng sau khi kết hôn.
-
 Câu 247: Các chủ thể của quan hệ hôn nhân và gia đình có đặc trưng là
 A. cá nhân có đăng ký kết hôn.
 B. cá nhân cùng huyết thống.
 *C. cá nhân trong một gia đình.
 D. cá nhân có quan hệ họ hàng.
-
 Câu 248: Luật Hôn nhân và gia đình sử dụng phương pháp điều chỉnh nào sau đây?
 A. Mệnh lệnh, phục tùng.
 B. Tách biệt quyền và nghĩa vụ.
 *C. Quy định quyền đồng thời là nghĩa vụ.
 D. Quyền tự định đoạt.
-
 Câu 249: Chung sống như vợ chồng là việc nam, nữ
 A. tổ chức cuộc sống chung trước hôn nhân.
 B. chung sống với nhau ngoài hôn nhân.
 *C. tổ chức cuộc sống chung và coi nhau là vợ chồng.
 D. tổ chức sống chung trước khi đăng ký kết hôn.
-
 Câu 250: Theo Luật Hôn nhân và gia đình 2014, hành vi nào sau đây bị cấm khi kết hôn?
 A. Tổ chức tiệc cưới.
 B. Tặng cho của cải. 
 *C. Yêu sách của cải.
 D. Thỏa thuận tài sản.
-
 Câu 251: Điều kiện về tuổi kết hôn đối với nữ là từ
 A. đủ 20 tuổi.
 B. 18 tuổi.
 *C. đủ 18 tuổi.
 D. 20 tuổi.
-
 Câu 252: Cơ quan có thẩm quyền xử lý việc kết hôn trái pháp luật là
 A. Viện kiểm sát.
 B. Ủy ban nhân dân.
 *C. Tòa án.
 D. Công an xã, phường, thị trấn.
-
 Câu 253: Điều kiện về tuổi kết hôn đối với nam là từ
 A. đủ 18 tuổi.
 B. 20 tuổi.
 *C. đủ 20 tuổi.
 D. 21 tuổi.
-
 Câu 254: Cơ quan nào sau đây không có quyền yêu cầu hủy việc kết hôn trái pháp luật?
 A. Cơ quan quản lý nhà nước về gia đình.
 B. Hội liên hiệp phụ nữ Việt Nam.
 *C. Tòa án nhân dân.
 D. Cơ quan quản lý nhà nước về trẻ em.
-
 Câu 255: Thủ tục nào là bắt buộc khi xác lập quan hệ hôn nhân?
 A. Thành hôn.
 B. Đính hôn.
 *C. Đăng ký kết hôn.
 D. Vu quy.
-
 Câu 256: Trường hợp nào sau đây bị cấm kết hôn?
 A. Người khiếm khuyết về thể chất.
 B. Người bị hạn chế năng lực hành vi dân sự.
 *C. Người đang có vợ, có chồng.
 D. Người đang bị truy cứu trách nhiệm hình sự.
-
 Câu 257: Việc lợi dụng kết hôn để nhập quốc tịch Việt Nam, quốc tịch nước ngoài là
 A. lừa dối kết hôn.
 B. kết hôn tự nguyện.
 *C. kết hôn giả tạo. 
 D. cưỡng ép kết hôn.
-
 Câu 258: Trường hợp kết hôn nào sau đây là trái pháp luật?
 A. Kết hôn khi chưa thực sự yêu.
 B. Kết hôn khi không được cha mẹ hai bên đồng ý.
 *C. Kết hôn để nhập quốc tịch nước khác.
 D. Kết hôn vì lỡ có thai.
-
 Câu 259: Công dân Việt Nam kết hôn trên lãnh thổ Việt Nam được thực hiện tại cơ quan nào sau đây?
 A. Công an xã, phường, thị trấn.
 B. Ủy ban nhân dân cấp huyện.
 *C. Ủy ban nhân dân cấp xã.
 D. Phòng Tư pháp thuộc Ủy ban nhân dân cấp huyện.
-
 Câu 260: Trường hợp nào sau đây là kết hôn trái pháp luật?
 A. Không được cha mẹ cho phép.
 B. Không tổ chức lễ cưới.
 *C. Thiếu sự tự nguyện.
 D. Kết hôn với người nước ngoài.
-
 Câu 261: Trường hợp nào sau đây là kết hôn giả tạo?
 A. Kết hôn do hai bên cha mẹ sắp đặt.
 *B. Lợi dụng kết hôn để nhập quốc tịch nước ngoài.
 C. Kết hôn nhưng không tổ chức lễ cưới.
 D. Tổ chức lễ cưới nhưng không đăng ký kết hôn.
-
 Câu 262: Hành vi cố ý của một bên hoặc của người thứ ba nhằm làm cho bên kia hiểu sai lệch và dẫn đến việc đồng ý kết hôn là 
 A. cưỡng ép kết hôn.
 *B. lừa dối kết hôn.
 C. kết hôn giả tạo.
 D. tảo hôn.
-
 Câu 263: Trường hợp nào sau đây vi phạm nguyên tắc tự nguyện khi kết hôn?
 A. Kết hôn với người mà mình chưa thực sự yêu.
 *B. Kết hôn vì bị đe dọa tố cáo hành vi vi phạm pháp luật.
 C. Kết hôn vì người yêu lỡ có thai.
 D. Kết hôn vì tưởng vợ hoặc chồng mình giàu.
-
 Câu 264: Việc lấy vợ, lấy chồng khi một bên hoặc cả hai bên chưa đủ tuổi kết hôn là
 A. cưỡng ép kết hôn.
 B. lừa dối kết hôn.
 *C. tảo hôn.
 D. kết hôn giả tạo.
-
 Câu 265: Khi vợ chồng áp dụng chế độ tài sản theo luật định, thì việc chiếm hữu, sử dụng, định đoạt tài sản chung do vợ chồng
 A. lựa chọn.
 B. tự định đoạt.
 *C. thỏa thuận.
 D. bàn bạc.
-
 Câu 266: Hôn nhân giữa vợ và chồng chấm dứt khi
 A. vợ hoặc chồng sống chung với người khác.
 B. vợ hoặc chồng ra nước ngoài sinh sống.
 *C. vợ hoặc chồng chết.
 D. vợ hoặc chồng mất tích.
-
 Câu 267: Cơ quan nào sau đây có thẩm quyền giải quyết ly hôn?
 A. Hội đồng nhân dân.
 B. Ủy ban nhân dân.
 *C. Tòa án.
 D. Viện kiểm sát.
-
 Câu 268: Trong trường hợp không đăng ký kết hôn mà có yêu cầu ly hôn thì Tòa án thụ lý và tuyên bố  
 A. công nhận quan hệ vợ chồng.
 B. cho ly hôn.
 *C. không công nhận quan hệ vợ chồng.
 D. theo thỏa thuận của hai bên.
-
 Câu 269: Quyền xin ly hôn đơn phương của chồng bị hạn chế nếu 
 A. vợ mất năng lực hành vi dân sự.
 B. vợ không đồng ý.
 *C. vợ đang mang thai.
 D. chồng đang ngoại tình.
-
 Câu 270: Một trong những căn cứ để Tòa án quyết định cho ly hôn theo yêu cầu của người chồng là
 A. vợ đối xử bất hiếu với cha mẹ chồng.
 B. vợ ngoại tình với người khác.
 *C. vợ bị Tòa án tuyên bố mất tích.
 D. vợ không thể sinh con.
-
 Câu 271: Một trong những nguyên tắc chia tài sản chung của vợ chồng khi ly hôn là chia đôi có tính đến
 A. lỗi của mỗi bên.
 B. thu nhập của mỗi bên.
 *C. công sức đóng góp của mỗi bên.
 D. yêu cầu của mỗi bên.
-
 Câu 272: Kể từ ngày bản án, quyết định ly hôn của Tòa án có hiệu lực pháp luật, thì quan hệ nào sau đây chấm dứt?
 A. Cấp dưỡng.
 B. Tình yêu.
 *C. Hôn nhân.
 D. Huyết thống.
-
 Câu 273: Khi vợ chồng áp dụng chế độ tài sản theo luật định, thì thu nhập từ tiền công lao động của vợ, chồng là tài sản
 A. chung của gia đình.
 B. riêng của vợ, chồng.
 *C. chung của vợ chồng.
 D. chung theo phần.
-
 Câu 274: Nếu không có thỏa thuận khác, thì tài sản mà vợ hoặc chồng được tặng cho riêng trong thời kỳ hôn nhân là tài sản
 A. chung của gia đình.
 B. chung của vợ chồng.
 *C. riêng của vợ, chồng.
 D. chung theo phần.
-
 Câu 275: A là công dân Việt Nam kết hôn với B là công dân nước ngoài thường trú trên lãnh thổ Việt Nam. Cơ quan có thẩm quyền đăng ký kết hôn là
 A. Ủy ban nhân dân cấp tỉnh.
 B. Ủy ban nhân dân cấp xã.
 *C. Ủy ban nhân dân cấp huyện.
 D. Sở Tư pháp.
-
 Câu 276: Văn bản thỏa thuận xác lập chế độ tài sản của vợ chồng phải đảm bảo yêu cầu nào sau đây?
 A. Được cha mẹ hai bên đồng ý.
 B. Có người làm chứng.
 *C. Có công chứng hoặc chứng thực.
 D. Được luật sư làm chứng.
-
 Câu 277: Trong chế độ tài sản vợ chồng theo luật định, người nào có nghĩa vụ phải thanh toán các hóa đơn tiền điện đáp ứng nhu cầu của vợ chồng?
 A. Vợ.
 B. Người có lương cao hơn.
 *C. Vợ và chồng.
 D. Chồng.
-
 Câu 278: Nếu vợ chồng không có thỏa thuận về tài sản, tài sản nào sau đây là tài sản chung của vợ chồng trong thời kỳ hôn nhân?
 A. Tài sản được hưởng thừa kế riêng.
 B. Tiền nhuận bút do viết sách.
 *C. Hoa lợi, lợi tức phát sinh từ tài sản riêng.
 D. Tài sản được tặng cho riêng.
-
 Câu 279: Nếu vợ chồng không có thỏa thuận về tài sản, tài sản nào sau đây là tài sản riêng của vợ, chồng trong thời kỳ hôn nhân?
 A. Lợi nhuận thu được từ hoạt động kinh doanh riêng.
 B. Hoa lợi, lợi tức phát sinh từ tài sản riêng.
 *C. Tài sản được thừa kế riêng.
 D. Thu nhập do lao động.
-
 Câu 280: Chế độ tài sản của vợ chồng theo thỏa thuận có hiệu lực từ thời điểm nào?
 A. Sau ngày đăng ký kết hôn.
 B. Trước ngày đăng ký kết hôn.
 *C. Ngày đăng ký kết hôn.
 D. Ngày mà vợ chồng thỏa thuận.
-
 Câu 281: Trong chế độ tài sản theo luật định, việc định đoạt tài sản nào sau đây cần phải có sự thỏa thuận bằng văn bản của vợ chồng?
 A. Tiền của vợ chồng góp vốn để kinh doanh.
 B. Tiền trong tài khoản ngân hàng mang tên vợ trị giá 01 tỷ đồng.
 *C. Xe ô tô vợ chồng mua nhưng chỉ mình chồng đứng tên.
 D. Nhà ở mà chồng có trước khi kết hôn.
-
 Câu 282: Trong chế độ tài sản theo luật định, việc định đoạt tài sản nào sau đây cần phải có sự thỏa thuận bằng văn bản của vợ chồng?
 A. Tài sản vợ chồng đang kinh doanh.
 B. Tiền mặt có giá trị lớn.
 *C. Căn hộ chung cư do vợ chồng mua.
 D. Xe đạp điện.
-
 Câu 283: Anh T đã có vợ, viết được một quyển sách. Theo quy định của pháp luật, tiền nhuận bút mà anh T nhận được từ việc xuất bản quyển sách này là
 A. tài sản chung của gia đình.
 B. tài sản chung của vợ chồng anh T.
 *C. tài sản riêng của anh T.
 D. tài sản của các con.
-
 Câu 284: Nếu không có thỏa thuận về tài sản, nghĩa vụ nào sau đây không phải là nghĩa vụ tài sản chung của vợ chồng?
 A. Khoản nợ do vợ vay để kinh doanh.
 B. Khoản nợ do chồng vay để kinh doanh.
 *C. Khoản nợ do chồng vay để đánh bài.
 D. Khoản nợ do vợ vay để chi tiêu hàng ngày.
-
 Câu 285: Nếu không có thỏa thuận về tài sản giữa vợ chồng, thì quyền sử dụng đất mà vợ được thừa kế riêng trong thời kỳ hôn nhân là tài sản
 A. chung của vợ chồng.
 B. chung của gia đình.
 *C. riêng của vợ.
 D. của gia đình vợ.
-
 Câu 286: Trong trường hợp hai bên kết hôn lựa chọn chế độ tài sản theo thỏa thuận thì thỏa thuận này phải được lập
 A. sau khi kết hôn.
 B. ngay khi kết hôn.
 *C. trước khi kết hôn.
 D. khi ly hôn.
-
 Câu 287: Vợ làm kế toán cho một công ty. Chồng kinh doanh tiệm cà phê bằng tài sản chung của vợ chồng. Nếu vợ chồng ly hôn và không thỏa thuận được vấn đề chia tài sản, theo quy định của pháp luật thì ai sẽ được ưu tiên nhận tiệm cà phê khi chia tài sản chung?
 A. Các con.
 B. Vợ.
 *C. Chồng.
 D. Không ai cả.
-
 Câu 288: T và C có con chung là N (8 tuổi). Nếu T và C ly hôn và cả hai đều có nguyện vọng nuôi N thì Tòa án sẽ quyết định người trực tiếp nuôi căn cứ vào nguyện vọng của ai?
 A. C.
 B. T.
 *C. N.
 D. Cha mẹ của T.
-
 Câu 289: T (chồng) và M (vợ) có con chung là P (2 tuổi). Nếu T và M ly hôn, cả hai đều có nguyện vọng và đủ điều kiện nuôi con thì Tòa án sẽ quyết định giao P cho ai trực tiếp nuôi?
 A. Cha mẹ của T.
 B. T.
 *C. M.
 D. Cha mẹ của M.
-
 Câu 290: Bản án hoặc quyết định có hiệu lực của Tòa án cho vợ chồng ly hôn làm chấm dứt 
 A. quan hệ tài sản giữa vợ chồng.
 B. nghĩa vụ nuôi con và cấp dưỡng.
 *C. quan hệ nhân thân giữa vợ chồng.
 D. đời sống chung giữa vợ chồng.
-
 Câu 291: Quan hệ giữa người lao động và người sử dụng lao động trong quá trình lao động là đối tượng điều chỉnh của ngành luật nào?
 A. Luật Hành chính.
 B. Tư pháp quốc tế.
 *C. Luật Lao động.
 D. Luật Dân sự.
-
 Câu 292: Quan hệ về bảo hiểm xã hội là đối tượng điều chỉnh của ngành Luật
 A. Dân sự.
 B. Hình sự.
 *C. Lao động.
 D. Hành chính.
-
 Câu 293: Quan hệ về việc làm và học nghề là đối tượng điều chỉnh của ngành Luật
 A. Dân sự.
 B. Hành chính.
 *C. Lao động.
 D. Hình sự.
-
 Câu 294: Quan hệ giữa tổ chức đại diện tập thể người lao động tại cơ sở với tổ chức đại diện người sử dụng lao động là đối tượng điều chỉnh của ngành luật nào?
 A. Luật Hành chính.
 B. Luật Dân sự.
 *C. Luật Lao động.
 D. Tư pháp quốc tế.
-
 Câu 295: Quan hệ giữa công ty cổ phần vận tải K và anh Q là nhân viên lái xe của công ty trong quá trình thực hiện hợp đồng lao động là đối tượng điều chỉnh của ngành luật nào?
 A. Luật Hành chính.
 B. Tư pháp quốc tế.
 *C. Luật Lao động.
 D. Luật Dân sự.
-
 Câu 296: Nguồn chủ yếu và cơ bản nhất của ngành Luật Lao động là
 A. Luật Bảo hiểm xã hội 2014.
 B. Hiến pháp 2013.
 *C. Bộ luật Lao động 2019.
 D. Thỏa ước lao động tập thể.
-
 Câu 297: Đình công thuộc đối tượng điều chỉnh của ngành Luật
 A. Thương mại.
 B. Dân sự.
 *C. Lao động.
 D. Hành chính.
-
 Câu 298: Quan hệ nào sau đây là đối tượng điều chỉnh của ngành Luật Lao động?
 A. Quan hệ mượn tài sản.
 B. Quan hệ nhân thân.
 *C. Quan hệ về việc làm và học nghề.
 D. Quan hệ giữa các thành viên trong gia đình.
-
 Câu 299: Người lao động và người sử dụng lao động là
 A. đối tác của quan hệ lao động.
 B. khách thể của quan hệ lao động.
 *C. chủ thể của quan hệ lao động.
 D. nội dung của quan hệ lao động.
-
 Câu 300: Quan hệ nào sau đây được điều chỉnh bởi các quy phạm pháp luật lao động?
 A. Anh E là khách hàng của công ty  F.
 B. Anh E là chủ nợ của công ty  F.
 *C. Anh E là nhân viên kế toán của công ty F.
 D. Anh E là đối tác của công ty F.
-
 Câu 301: Trừ một số trường hợp pháp luật quy định khác, các bên có thể giao kết hợp đồng lao động bằng lời nói đối với hợp đồng có thời hạn dưới 
 A. 36 tháng.
 B. 12 tháng.
 *C. 01 tháng.
 D. 24 tháng.
-
 Câu 302: Theo quy định của pháp luật lao động, hợp đồng lao động có thể được giao kết bằng hình thức
 A. lời nói, hành vi cụ thể.
 B. hành vi cụ thể, văn bản. 
 C. phương tiện điện tử, văn bản.
 *D. văn bản, lời nói. 
-
 Câu 303: Theo quy định của Bộ luật Lao động 2019, hợp đồng lao động gồm những loại nào?
 A. Hợp đồng không xác định thời hạn và hợp đồng bằng hành vi cụ thể.
 B. Hợp đồng xác định thời hạn và hợp đồng theo mùa vụ. 
 *C. Hợp đồng không xác định thời hạn, hợp đồng theo mùa vụ. 
 D. Hợp đồng xác định thời hạn và hợp đồng không xác định thời hạn.
-
 Câu 304: Về cơ bản, hợp đồng lao động có hiệu lực kể từ ngày 
 A. người lao động tham dự phỏng vấn xin việc.
 B. thực hiện hợp đồng.
 C. người lao động bắt đầu làm việc.
 *D. các bên giao kết.
-
 Câu 305: Đối tượng của hợp đồng lao động là
 A. việc làm.
 B. tiền lương.
 C. chế độ bảo hiểm xã hội.
 *D. việc làm có trả công.
-
 Câu 306: Hợp đồng lao động có thể giao kết bằng lời nói, trừ trường hợp
 A. lao động là người cao tuổi.
 B. lao động là người tàn tật.
 C. lao động là nữ.
 *D. lao động là người giúp việc gia đình.
-
 Câu 307: Thời điểm người sử dụng lao động phải giao kết hợp đồng lao động với người lao động là
 A. trước ngày nhận lương đầu tiên.
 B. ngày làm việc đầu tiên của người lao động.
 C. do các bên thỏa thuận.
 *D. trước khi nhận người lao động vào làm việc.
-
 Câu 308: Hình thức xử lý kỷ luật lao động ít nghiêm khắc nhất là
 A. sa thải.
 B. cảnh cáo.
 C. kéo dài thời hạn nâng lương.
 *D. khiển trách.
-
 Câu 309: Hình thức hợp đồng lao động đối với người lao động chưa đủ 15 tuổi là
 A. phương tiện điện tử.
 B. lời nói.
 C. hành vi cụ thể.
 *D. văn bản. 
-
 Câu 310: Theo quy định của pháp luật lao động, về cơ bản độ tuổi lao động tối thiểu của người lao động là từ
 A. 15 tuổi.
 B. đủ 16 tuổi.
 C.  đủ 18 tuổi.
 *D. đủ 15 tuổi.
-
 Câu 311: Hợp đồng lao động xác định thời hạn là hợp đồng mà trong đó hai bên xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng trong thời gian không quá
 A. 60 tháng kể từ thời điểm có hiệu lực của hợp đồng.
 B. 24 tháng kể từ thời điểm có hiệu lực của hợp đồng.
 C. 12 tháng kể từ thời điểm có hiệu lực của hợp đồng.
 *D. 36 tháng kể từ thời điểm có hiệu lực của hợp đồng.
-
 Câu 312: Công việc theo hợp đồng lao động được thực hiện bởi
 A. người đại diện theo ủy quyền của người lao động.
 B. người đại diện theo pháp luật của người lao động.
 C. người lao động khác.
 *D. người lao động đã giao kết hợp đồng.
-
 Câu 313: Theo quy định của pháp luật lao động, thời giờ làm việc bình thường trong một ngày không quá 
 A. 12 giờ.
 B. 07 giờ.
 C. 10 giờ.
 *D. 08 giờ.
-
 Câu 314: Các hình thức xử lý kỷ luật được quy định trong Bộ luật Lao động 2019 là
 A. khiển trách; kéo dài thời hạn nâng lương không quá 06 tháng; sa thải.
 B. khiển trách; kéo dài thời hạn nâng lương không quá 06 tháng; sa thải; phạt tiền.
 C. khiển trách; kéo dài thời hạn nâng lương không quá 06 tháng; sa thải; bồi thường thiệt hại.
 *D. khiển trách; kéo dài thời hạn nâng lương không quá 06 tháng; cách chức; sa thải.
-
 Câu 315: Việc dùng vũ lực, đe dọa dùng vũ lực hoặc các thủ đoạn khác để ép buộc người lao động phải làm việc trái ý muốn của họ là
 A. quan hệ lao động không tự nguyện.
 B. ép buộc lao động.
 C. quan hệ lao động cưỡng bức.
 *D. cưỡng bức lao động.
-
 Câu 316: Chủ thể nào sau đây phải chứng minh lỗi của người lao động khi xử lý kỷ luật lao động?
 A. Tòa án.
 B. Người lao động.
 C. Công đoàn.
 *D. Người sử dụng lao động.
-
 Câu 317: Khoảng thời gian nào sau đây là giờ làm việc ban đêm theo quy định của Bộ luật Lao động 2019?
 A. Từ 21 giờ đến 05 giờ sáng ngày hôm sau.
 B. Từ 19 giờ đến 06 sáng ngày hôm sau.
 C. Từ 22 giờ đến 05 giờ sáng ngày hôm sau.
 *D. Từ 22 giờ đến 06 giờ sáng ngày hôm sau.
-
 Câu 318: Những quy định về việc tuân theo thời gian, công nghệ và điều hành sản xuất, kinh doanh do người sử dụng lao động ban hành được gọi là
 A. quy chế lao động
 B. quy tắc lao động.
 C. trách nhiệm vật chất.
 *D. kỷ luật lao động.
-
 Câu 319: Người sử dụng lao động phải ban hành nội quy lao động bằng văn bản nếu sử dụng từ bao nhiêu lao động trở lên?
 A. 50.
 B. 20.
 C. 30.
 *D. 10.
-
 Câu 320: Người lao động bị xử lý kỷ luật là kéo dài thời hạn nâng lương hoặc cách chức mà tái phạm trong thời gian chưa xóa kỷ luật thì có thể bị
 A. cảnh cáo.
 B. khiển trách.
 C. phạt tiền.
 *D. sa thải.
-
 Câu 321: Việc người lao động bồi thường những thiệt hại về tài sản do họ gây ra cho người sử dụng lao động trong khi thực hiện hợp đồng lao động được gọi là
 A. kỷ luật lao động.
 B. trách nhiệm dân sự.
 C. trách nhiệm kỷ luật.
 *D. trách nhiệm vật chất.
-
 Câu 322: Khi người lao động do sơ suất mà gây thiệt hại không nghiêm trọng tài sản của người sử dụng lao động với giá trị không quá 10 tháng lương tối thiểu vùng thì phải bồi thường nhiều nhất là bao nhiêu tháng tiền lương cho người sử dụng lao động?
 A. 05.
 B. 02.
 C. 04.
 *D. 03.
-
 Câu 323: Tiền lương của người lao động trong thời gian thử việc do hai bên thỏa thuận nhưng ít nhất phải bằng bao nhiêu phần trăm mức lương của công việc đó?
 A. 50%.
 B. 90%.
 C. 80%.
 *D. 85%.
-
 Câu 324: Người lao động không được tạm hoãn thực hiện hợp đồng lao động trong trường hợp nào sau đây?
 A. Lao động nữ mang thai.
 B. Người lao động thực hiện nghĩa vụ quân sự.
 C. Người lao động bị tạm giam.
 *D. Người lao động kết hôn.
-
 Câu 325: Trường hợp nào sau đây người sử dụng lao động không được áp dụng hình thức kỷ luật sa thải đối với người lao động?
 A. Người lao động có hành vi tiết lộ bí mật kinh doanh của người sử dụng lao động.
 B. Người lao động có hành vi sử dụng ma túy tại nơi làm việc.
 C. Người lao động tự ý bỏ việc 20 ngày cộng dồn trong 365 ngày mà không có lý do chính đáng.
 *D. Người lao động nghỉ việc 05 ngày cộng dồn trong 30 ngày do bị ốm có xác nhận của nơi khám bệnh có thẩm quyền.
-
 Câu 326: Người lao động có hành vi đánh bạc tại nơi làm việc thì có thể bị người sử dụng lao động áp dụng hình thức xử lý kỷ luật nào?
 A. Phạt tiền.
 B. Khiển trách.
 C. Cách chức.
 *D. Sa thải.
-
 Câu 327: Theo Bộ luật Lao động 2019, không áp dụng thử việc đối với người lao động giao kết hợp đồng lao động có thời hạn dưới
 A. 04 tháng.
 B. 02 tháng.
 C. 03 tháng.
 *D. 01 tháng.
-
 Câu 328: Người lao động là người Việt Nam được nghỉ làm việc, hưởng nguyên lương bao nhiêu ngày trong những ngày lễ, tết của năm?
 A. 12 ngày.
 B. 10 ngày.
 C. 09 ngày.
 *D. 11 ngày.
-
 Câu 329: Trường hợp người lao động có hành vi đe dọa gây thiệt hại đặc biệt nghiêm trọng về tài sản của người sử dụng lao động thì người sử dụng lao động có thể áp dụng hình thức xử lý kỷ luật nào đối với người lao động?
 A. Giảm lương.
 B. Khiển trách.
 C. Cảnh cáo.
 *D. Sa thải.
-
 Câu 330: Người lao động tự ý bỏ việc bao nhiêu ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng sẽ bị áp dụng hình thức kỷ luật sa thải?
 A. 5 ngày.
 B. 25 ngày.
 C. 15 ngày.
 *D. 20 ngày.
-
 Câu 331: Một trong những dấu hiệu pháp lý của tham nhũng là
 A. hành vi của công chức, viên chức.
 B. chủ thể thực hiện hành vi không vì vụ lợi.
 C. đối tượng bị thiệt hại là ngân sách nhà nước.
 *D. hành vi của người có chức vụ, quyền hạn.
-
 Câu 332: Mục đích của tham nhũng là
 A. cơ hội.
 B. chức quyền.
 C. địa vị.
 *D. vụ lợi.
-
 Câu 333: Người thực hiện hành vi tham nhũng sử dụng phương thức nào sau đây?
 A. Lợi dụng sự sơ hở của pháp luật.
 B. Lợi dụng uy tín cá nhân.
 C. Lợi dụng các mối quan hệ xã hội.
 *D. Lợi dụng chức vụ, quyền hạn được giao.
-
 Câu 334: Chủ thể của hành vi tham ô tài sản là
 A. đồng nghiệp của người có trách nhiệm quản lý tài sản.
 B. cấp trên của người có trách nhiệm quản lý tài sản.
 C. người nhà của người có trách nhiệm quản lý tài sản.
 *D. người có trách nhiệm quản lý tài sản.
-
 Câu 335: Hành vi nào sau đây được quy định là hành vi tham nhũng trong khu vực nhà nước và trong khu nực ngoài nhà nước?
 A. Nhũng nhiễu vì vụ lợi.
 B. Giả mạo trong công tác vì vụ lợi.
 C. Lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản.
 *D. Tham ô tài sản.
-
 Câu 336: Việc một người vượt quá quyền hạn của mình làm trái công vụ được gọi là
 A. vượt quyền.
 B. lạm dụng chức vụ, quyền hạn.
 C. lợi dụng chức vụ, quyền hạn.
 *D. lạm quyền.
-
 Câu 337: Hành vi nào sau đây của người có chức vụ, quyền hạn là tham nhũng?
 A. Góp vốn vào doanh nghiệp hoạt động trong ngành, nghề do mình quản lý.
 B. Kê khai tài sản, thu nhập không trung thực.
 C. Để vợ hoặc chồng, con kinh doanh trong ngành, nghề do mình quản lý.
 *D. Lợi dụng chức vụ, quyền hạn sử dụng trái phép tài sản công vì vụ lợi.
-
 Câu 338: Hành vi nào sau đây của công chức được gọi là hành vi khác vi phạm pháp luật về phòng, chống tham nhũng?
 A. Nhận hối lộ.
 B. Nhũng nhiễu vì vụ lợi.
 C. Tham ô tài sản.
 *D. Thành lập doanh nghiệp.
-
 Câu 339: Việc một người đưa cho người có chức vụ, quyền hạn một lợi ích vật chất để người có chức vụ, quyền hạn làm một việc theo yêu cầu của người đó được gọi là
 A. lạm quyền.
 B. nhận hối lộ.
 C. tham ô tài sản.
 *D. đưa hối lộ.
-
 Câu 340: Hành vi cửa quyền, hách dịch, đòi hỏi, gây khó khăn, phiền hà của người có chức vụ, quyền hạn trong khi thực hiện nhiệm vụ được gọi là
 A. tham ô.
 B. lạm quyền.
 C. vụ lợi.
 *D. nhũng nhiễu.
-
 Câu 341: X là viên chức, không giữ các chức vụ quản lý. X có thể làm việc nào sau đây?
 A. Điều hành hợp tác xã.
 B. Thành lập doanh nghiệp.
 C. Quản lý doanh nghiệp.
 *D. Góp vốn vào doanh nghiệp.
-
 Câu 342: Ông K là Giám đốc bệnh viện H. Ông K có thể bổ nhiệm người thân thích nào sau đây làm chức vụ Trưởng phòng Tài chính - Kế toán bệnh viện H?
 A. Con ruột.
 B. Vợ.
 *C. Cháu ruột.
 D. Anh ruột.
-
 Câu 343: Bà H là Phó Giám đốc Sở Y tế tỉnh Y. Bà có thể làm việc nào sau đây?
 A. Góp vốn vào phòng khám nha khoa trên địa bàn tỉnh Y.
 B. Góp vốn vào phòng khám đa khoa trên địa bàn tỉnh Y.
 *C. Góp vốn vào công ty may mặc đóng tại tỉnh Y.
 D. Góp vốn vào bệnh viện tư trên địa bàn tỉnh Y.
-
 Câu 344: Ông V là Bộ trưởng Bộ Thông tin và Truyền thông, có con ruột là N. N có quyền làm việc nào sau đây?
 A. Thành lập doanh nghiệp xuất bản sách.
 B. Thành lập doanh nghiệp chuyển phát nhanh.
 *C. Thành lập doanh nghiệp sản xuất phân bón.
 D. Thành lập trung tâm tin học.
-
 Câu 345: Trong một khoa thuộc trường đại học công lập, người nào sau đây có nghĩa vụ kê khai tài sản, thu nhập?
 A. Giảng viên (không có chức vụ).
 B. Trưởng bộ môn.
 *C. Trưởng khoa.
 D. Chủ tịch công đoàn khoa.
-
 Câu 346: Theo quy định của Luật Phòng, chống tham nhũng 2018, loại tài sản nào sau đây là đối tượng của việc kê khai tài sản? 
 A. Laptop có giá trị 45 triệu đồng.
 B. Ô tô có giá trị 40 triệu đồng.
 *C. Xe máy có giá trị 60 triệu đồng.
 D. Xe đạp có giá trị 30 triệu đồng.
-
 Câu 347: Theo quy định của Luật Phòng, chống tham nhũng 2018, người nào sau đây phải thực hiện kê khai tài sản, thu nhập hằng năm?
 A. Luật sư.
 *B. Thẩm phán.
 C. Hội thẩm nhân dân.
 D. Giảng viên luật.
-
 Câu 348: Theo quy định của Luật Phòng, chống tham nhũng 2018, giá trị tài sản biến động bao nhiêu, thì người có nghĩa vụ kê khai phải thực hiện kê khai biến động tài sản?
 A.  Từ 200 triệu đồng trở lên.
 *B. Từ 300 triệu đồng trở lên.
 C. Từ 100 triệu đồng trở lên.
 D. Từ 50 triệu đồng trở lên.
-
 Câu 349: Thời điểm thực hiện kê khai biến động tài sản, thu nhập là lúc nào?
 A. Trước ngày 31 tháng 12 của năm tiếp theo năm có biến động.
 *B. Trước ngày 31 tháng 12 của năm có biến động.
 C. Tròn 01 năm kể từ khi có biến động.
 D. Trong vòng 30 ngày kể từ khi có biến động.
-
 Câu 350: H là công chức, N (vợ của H) là viên chức. H có hai con là T (21 tuổi) và X (15 tuổi). Theo Luật Phòng, chống tham nhũng 2018, nếu kê khai tài sản, thu nhập, thì H phải kê khai tài sản của người nào sau đây?
 A. H, N, T, X.
 *B. H, N, X.
 C. H, N.
 D. H.
-
 Câu 351: Ông T là Chủ tịch ủy ban nhân dân xã S, nhận hối lộ 20 triệu đồng từ anh M. Ông T không bị xử lý về hành vi nhận hối lộ trong trường hợp nào sau đây ?
 A. Ông T nghỉ hưu.
 *B. Ông T chết.
 C. Ông T thôi việc.
 D. Ông T chuyển công tác.
-
 Câu 352: Chị V là công chức bị kết án về tội tham ô tài sản. Hình thức xử lý nào kèm theo đối với chị khi bản án có hiệu lực pháp luật?
 A. Điều chuyển công tác.
 *B. Buộc thôi việc.
 C. Cách chức.
 D. Hạ bậc lương.
-
 Câu 353: Bà Q là đại biểu Hội đồng nhân dân xã K bị kết án về tội nhận hối lộ. Khi bản án có hiệu lực pháp luật, thì bà Q đương nhiên bị
 A. mất quyền được chăm sóc y tế.
 *B. mất quyền đại biểu Hội đồng nhân dân.
 C. mất quyền khiếu nại, tố cáo.
 D. mất quyền được bảo hộ tính mạng.
-
 Câu 354: Anh S là kế toán của công ty X, có trách nhiệm quản lý quỹ dự phòng của công ty. Anh chiếm đoạt số tiền 30 triệu đồng từ quỹ. Anh S sẽ bị xử lý vì hành vi nào sau đây?
 A. Lợi dụng chức vụ, quyền hạn chiếm đoạt tài sản.
 *B. Tham ô tài sản.
 C. Lạm quyền trong khi thi hành công vụ.
 D. Giả mạo trong công tác.
-
 Câu 355: Ông H là công chức, nhận hối lộ với số tiền 1,5 triệu đồng từ anh T. Trường hợp nào sau đây ông H sẽ bị xử lý hình sự với tội danh nhận hối lộ?
 A. Ông H  không chủ động khai báo.
 *B. Ông H đã từng bị xử lý kỷ luật về hành vi nhận hối lộ.
 C. Ông H không trả lại tiền cho anh T.
 D. Ông H không làm đúng việc theo yêu cầu của anh T.
-
 Câu 356: Chị X có hành vi tham nhũng. Hình thức xử lý nặng nhất có thể áp dụng đối với chị X là
 A. chung thân.
 *B. tử hình.
 C. phạt tiền.
 D. buộc thôi việc.
-
 Câu 357: Hành vi nào sau đây của người có chức vụ, quyền hạn không phải là tham nhũng nhưng vẫn bị xử lý theo quy định của pháp luật về phòng, chống tham nhũng?
 A. Vi phạm kỷ luật của cơ quan.
 *B. Vi phạm quy tắc ứng xử.
 C. Vi phạm điều lệ của tổ chức.
 D. Vi phạm đạo đức công vụ.
-
 Câu 358: Ông H là Bộ trưởng Bộ Thông tin và Truyền thông, có con ruột là N. N thành lập doanh nghiệp chuyển phát nhanh. Hình thức xử lý đối với ông H là
 A. cảnh cáo.
 *B. cách chức.
 C. buộc thôi việc.
 D. hạ bậc lương.
-
 Câu 359: Chị H là công chức xã lần đầu có hành vi nhũng nhiễu trong giải quyết công việc. Hình thức xử lý đối với chị H là
 A. cách chức.
 B. cảnh cáo.
 *C. khiển trách.
 D. buộc thôi việc.
-
 Câu 360: Anh K là công chức xã có hành vi nhũng nhiễu trong giải quyết công việc, trước đó anh đã bị khiển trách về hành vi này. Hình thức xử lý đối với anh K là
 A. buộc thôi việc.
 B. cách chức.
 *C. cảnh cáo.
 D. hạ bậc lương.
-
 Câu 361: Khẳng định nào sau đây thể hiện bản chất của Luật Quốc tế? 
 A. Là thoả thuận giữa các tổ chức quốc tế liên chính phủ.
 B. Là pháp luật do Liên hợp quốc đặt ra. 
 C. Là công cụ đô hộ của các nước giàu lên các nước nghèo. 
 *D. Là sự thoả thuận giữa các chủ thể của Luật Quốc tế. 
-
 Câu 362: Chủ thể cơ bản, chủ yếu nhất của Luật Quốc tế là
 A. tổ chức quốc tế liên chính phủ.
 B. tổ chức quốc tế phi chính phủ.  
 *C. quốc gia.
 D. dân tộc.
-
 Câu 363: Khoảng không vũ trụ là bộ phận của
 A. lãnh thổ vô chủ. 
 B. lãnh thổ quốc gia. 
 *C. lãnh thổ quốc tế. 
 D. lãnh thổ đang tranh chấp. 
-
 Câu 364: Việc phân giới thực địa và cắm mốc là hoạt động xác định biên giới quốc gia 
 A. vùng trời. 
 B. trên biển. 
 *C. trên bộ. 
 D. vùng lòng đất. 
-
 Câu 365: Trên vùng đặc quyền kinh tế của quốc gia ven biển, các quốc gia khác có quyền nào sau đây? 
 A. Tự do lắp đặt 
 giàn khoan. 
@@ -2196,94 +1829,79 @@ B. Tự do phóng thử
 *C. Tự do hàng không.  
 D. Khai thác cá 
 không hạn chế.  
-
 Câu 366: Chủ thể nào sau đây có quyền sử dụng vũ lực để đảm bảo thi hành Luật Quốc tế? 
 A. Toà án công lý quốc tế. 
 B. Tổ chức quốc tế phi chính phủ.  
 *C. Hội đồng Bảo an Liên hợp quốc. 
 D. Cao uỷ Nhân quyền Liên hợp quốc.  
-
 Câu 367: “Tất cả các quốc gia thành viên Liên hợp quốc đều phải làm tròn những nghĩa vụ mà họ phải đảm nhận theo Hiến chương này…" là nội dung nguyên tắc nào của Luật Quốc tế?
 A. Các dân tộc bình đẳng và có quyền tự quyết. 
 *B. Tận tâm thiện chí tôn trọng các cam kết quốc tế.
 C. Không can thiệp vào công việc nội bộ của quốc gia khác. 
 D. Các quốc gia có nghĩa vụ hợp tác với nhau.
 
-
 Câu 368: Cơ quan nào sau đây có thẩm quyền thực hiện bảo hộ công dân nước mình ở nước ngoài? 
 A. Bộ Tư pháp. 
 B. Bộ Nội vụ. 
 C. Bộ Kế hoạch và Đầu tư. 
 *D. Bộ Ngoại giao. 
-
 Câu 369: Theo Công ước Liên hợp quốc về Luật biển 1982, khu vực nào sau đây có chiều rộng không vượt quá 12 hải lý kể từ đường cơ sở của quốc gia ven biển?
 A. Nội thuỷ.  
 B. Thềm lục địa.
 *C. Lãnh hải. 
 D. Đáy đại dương.   
-
 Câu 370: Theo Công ước Liên hợp quốc về Luật biển 1982, khu vực nào không được mở rộng ra quá 200 hải lý kể từ đường cơ sở dùng để tính chiều rộng lãnh hải?
 A. Vùng nội thuỷ. 
 *B. Vùng đặc quyền kinh tế. 
 C. Vùng lãnh hải. 
 D. Vùng thềm lục địa. 
-
 Câu 371: Theo Công ước Liên hợp quốc về Luật biển 1982, tàu thuyền nước ngoài có quyền nào trong các quyền sau đây trên lãnh hải quốc gia ven biển? 
 A. Tự do đặt dây cáp và ống dẫn ngầm.  
 B. Tự do hàng không. 
 C. Tự do khai thác tài nguyên thiên nhiên. 
 *D. Đi qua không gây hại. 
-
 Câu 372: Văn bản nào sau đây là một Điều ước quốc tế? 
 A. Luật Điều ước quốc tế năm 2016.
 B. Bản quy tắc của Phòng thương mại quốc tế ICC. 
 C. Bản án của Toà án công lý quốc tế.
 *D. Công ước của Liên hợp quốc về Quyền trẻ em. 
-
 Câu 373: Quốc gia X thực hiện bắn tên lửa vào lãnh thổ quốc gia Y nhằm tạo áp lực buộc Y phải thay đổi chính sách quân sự. Hành vi này của quốc gia X vi phạm rõ ràng nhất nguyên tắc nào của Luật Quốc tế?
 A. Các quốc gia có nghĩa vụ hợp tác với nhau. 
 B. Duy trì hoà bình và an ninh khu vực. 
 C. Tận tâm thực hiện các cam kết quốc tế.
 *D. Cấm dùng vũ lực và đe doạ dùng vũ lực trong quan hệ quốc tế.
-
 Câu 374: Quốc gia X có hành vi tự ý kéo dàn khoan vào vùng biển thuộc lãnh hải của quốc gia Y. Đây là hành vi trái với quy định của Công ước Liên Hợp quốc về Luật biển năm 1982 mà X và Y đều là thành viên. Hành vi của quốc gia X đã vi phạm rõ ràng nhất nguyên tắc nào sau đây của Luật Quốc tế? 
 A. Các dân tộc bình đẳng và có quyền tự quyết.
 B. Tôn trọng các 
 cam kết quốc tế. 
 C. Không can thiệp vào công việc nội bộ của quốc gia khác.
 *D. Bình đẳng về chủ quyền giữa các quốc gia. 
-
 Câu 375: Tổ chức nào sau đây là chủ thể của Luật Quốc tế?
 A. Hiệp hội chữ thập đỏ và trăng lưỡi liềm đỏ quốc tế. 
 *B. Tổ chức Thương mại Thế giới.
 C. Tổ chức Tầm nhìn Thế giới. 
 D. Quỹ Quốc tế Bảo vệ thiên nhiên. 
-
 Câu 376: Sau nội chiến, quốc gia T trao cho lãnh thổ H (thuộc T) quyền tự trị khu vực, theo đó lãnh thổ H được hưởng quyền độc lập nhất định trong mối quan hệ với chính quyền Trung ương. Quốc gia T đã thực hiện nội dung nào sau đây trong các quy chế pháp lý của lãnh thổ quốc gia?
 A. Quốc gia có quyền bảo vệ và cải tạo lãnh thổ quốc gia. 
 B. Quốc gia có quyền bất khả xâm phạm và toàn vẹn về lãnh thổ.
 *C. Quốc gia tự quy định chế độ pháp lý đối với từng vùng lãnh thổ. 
 D. Quốc gia có quyền quyết định phương hướng phát triển đất nước.
-
 Câu 377: Quốc gia M ra lệnh đóng cửa Tổng lãnh sự quán của quốc gia T trên lãnh thổ nước mình vì nghi ngờ các hoạt động tình báo bất hợp pháp của T trên lãnh thổ nước M. Hành động của M thuộc loại biện pháp thi hành Luật Quốc tế nào sau đây?
 A. Các biện pháp quân sự.
 B. Các biện pháp kinh tế.
 *C. Các biện pháp chính trị.
 D. Các biện pháp tư pháp.  
-
 Câu 378: Nước M thông báo đã đưa Tổng công ty Dầu khí của nước T vào danh sách đen kinh tế vì tập đoàn này hỗ trợ T dọa nạt các nước ở Biển Đông. Hành động của M thuộc loại biện pháp thi hành Luật Quốc tế nào sau đây?
 A. Các biện pháp quân sự. 
 B. Các biện pháp chính trị.
 *C. Các biện pháp kinh tế.
 D. Các biện pháp tư pháp.  
-
 Câu 379: Quan hệ nào sau đây thuộc đối tượng điều chỉnh của Luật Quốc tế?
 A. Vietnam Airlines thuê 6 máy bay thế hệ mới từ tập đoàn Aviation Capital Group của Mỹ.
 *B. Việt Nam tham gia Công ước Liên Hợp quốc về Quyền trẻ em năm 1989. 
 C. Úc ký hợp đồng cho công ty Landbridge của Trung Quốc thuê cảng Darwin trong 99 năm.  
 D. Anh N là công dân Việt Nam đăng ký kết hôn với chị K quốc tịch Thuỵ Sỹ. 
  
-
 Câu 380: Việc nào sau đây được xem là hoạt động lập pháp trong Luật Quốc tế? 
 A. Tổ chức các hội 
 nghị thượng đỉnh.
@@ -2291,121 +1909,101 @@ nghị thượng đỉnh.
 C. Thăm ngoại giao
 của nguyên thủ quốc gia.
 D. Xét xử của Toà án Công lý Quốc tế. 
-
 Câu 381: Tư pháp quốc tế sử dụng phương pháp điều chỉnh nào sau đây?
 A. Phương pháp mệnh lệnh.
 *B. Phương pháp thực chất.
 C. Phương pháp bình đẳng.
 D. Phương pháp quyền uy.
-
 Câu 382: Phương pháp điều chỉnh gián tiếp của Tư pháp quốc tế có ưu điểm nào sau đây? 
 A. Mang tính khái quát cao.
 *B. Dung hòa lợi ích của các bên.
 C. Giải quyết trực tiếp, đơn giản.
 D. Tạo ưu thế cho doanh nghiệp sở tại.
-
 Câu 383: Pháp nhân nước ngoài là tổ chức có tư cách pháp nhân và
 A. đang hoạt động chủ yếu tại nước ngoài.
 *B. được thành lập theo pháp luật nước ngoài.
 C. có văn phòng đại diện ở nhiều nước.
 D. có trụ sở thương mại ở nhiều nước.
-
 Câu 384: Tư pháp quốc tế còn được gọi là
 A. Luật so sánh.
 *B. Luật xung đột.
 C. Luật dân sự.
 D. Luật công.
-
 Câu 385: Quan hệ pháp luật chủ yếu trong Tư pháp quốc tế là
 A. tương đối và tuyệt đối.
 *B. nhân thân và tài sản.
 C. vật quyền và trái quyền.
 D. dân sự và hình sự.
-
 Câu 386: Việc xác định luật áp dụng để giải quyết vụ việc dân sự có yếu tố nước ngoài được thực hiện bởi
 A. sự thỏa thuận của các bên.
 *B. tòa án có thẩm quyền.
 C. thông lệ quốc tế.
 D. thực tiễn tại tòa án.
-
 Câu 387: Xung đột pháp luật là hiện tượng đặc thù của
 A. Điều ước quốc tế.
 B. Công pháp quốc tế.
 *C. Tư pháp quốc tế.
 D. Tập quán quốc tế.
-
 Câu 388: Trong Tư pháp quốc tế, chủ thể nào sau đây được hưởng quyền miễn trừ thi hành án?
 A. Công dân.
 B. Tổ chức.
 *C. Quốc gia.
 D. Tập đoàn.
-
 Câu 389: Vấn đề cơ bản của Tư pháp quốc tế là
 A. xung đột chính trị.
 B. xung đột quốc tế.
 *C. xung đột pháp luật.
 D. xung đột kinh tế.
-
 Câu 390: Trong Tư pháp quốc tế, việc phân định quyền và nghĩa vụ của các bên trong quan hệ dân sự có yếu tố nước ngoài là đặc trưng của phương pháp điều chỉnh
 A. thỏa thuận.
 B. gián tiếp.
 *C. trực tiếp.
 D. bình đẳng. 
-
 Câu 391: Trong Tư pháp quốc tế, loại nguồn phổ biến ở các quốc gia áp dụng hệ thống Thông luật là
 A. các nguyên tắc pháp lý chung.
 B. văn bản quy phạm pháp luật.
 *C. thực tiễn tòa án và trọng tài.
 D. quy phạm thực chất thống nhất.
-
 Câu 392: Trong Tư pháp quốc tế, tổng thể các quy phạm xung đột của nước mà toà án ở đó có thẩm quyền giải quyết là nguyên tắc
 A. Luật nhân thân.
 B. Luật trọng tài
 *C. Luật tòa án.
 D. Luật pháp nhân.
-
 Câu 393: Trong Tư pháp quốc tế, luật nào sau đây được áp dụng dựa trên nguyên tắc tự nguyện và bình đẳng trong giao kết hợp đồng?
 A. Luật của các thương nhân.
 B. Luật nơi giao kết hợp đồng.
 *C. Luật do các bên lựa chọn.
 D. Luật của nước xảy ra tranh chấp.
-
 Câu 394: Trong Tư pháp quốc tế, việc bồi thường thiệt hại ngoài hợp đồng thông thường được xác định theo
 A. luật nơi xảy ra hành vi.
 B. luật nơi ký kết hợp đồng.
 *C. luật nơi vi phạm pháp luật.
 D. luật nơi xảy ra thiệt hại.
-
 Câu 395: Quan hệ nào sau đây là quan hệ dân sự có yếu tố nước ngoài?
 A. Việt Nam ký kết hiệp định thương mại tự do với Nhật Bản.
 B. Người nước ngoài thực hiện hành vi vi phạm pháp luật tại Việt Nam.
 *C. Thương nhân Việt Nam ký kết hợp đồng mua bán hàng hóa với công ty của Ý.
 D. Công ty liên doanh có vốn đầu tư nước ngoài thành lập tại Việt Nam.
-
 Câu 396: Chủ thể nào sau đây được hưởng quyền miễn trừ tư pháp?
 A. Công ty Meta.
 B. Công ty Alphabet.
 *C. Hợp chúng quốc Hoa Kỳ.
 D. Tập đoàn Coca-cola.
-
 Câu 397: Ông X (quốc tịch Indonesia) ký hợp đồng thuê đất của ông Y (quốc tịch Việt Nam). Nếu phát sinh tranh chấp về việc thực hiện hợp đồng thì luật nào được áp dụng để giải quyết?
 A. Luật nơi cư trú.
 B. Luật của thương nhân.
 *C. Luật nơi có vật.
 D. Luật nước người bán.
-
 Câu 398: Công dân Việt Nam kết hôn với công dân Iraq, cả hai đang cư trú tại thành phố Quy Nhơn, tỉnh Bình Định. Trong trường hợp cả hai muốn ly hôn thì cơ quan nào có thẩm quyền giải quyết?
 A. Tòa án nhân dân thành phố Quy Nhơn.
 B. Lãnh sự quán Iraq.
 C. Đại sứ quán Iraq.
 *D. Tòa án nhân dân tỉnh Bình Định.
-
 Câu 399: Công dân Lào và công dân Campuchia tranh chấp về quyền sở hữu đất đai. Luật nào được áp dụng để giải quyết tranh chấp này?
 A. Luật hợp đồng.
 *B. Luật nơi có vật.
 C. Luật của thương nhân.
 D. Luật nơi cư trú.
-
 Câu 400: Ông H (quốc tịch nước I) để lại thừa kế cho ông E (quốc tịch nước U). Do sự khác biệt về quy định hình thức di chúc giữa hai nước nên đã xảy ra tranh chấp. Luật nào được áp dụng để giải quyết tranh chấp này?
 *A. Luật của nơi lập di chúc.
 B. Luật của nước có người lập di chúc.
