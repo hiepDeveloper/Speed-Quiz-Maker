@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { parseQuizText } from './utils/parser';
 import QuestionCard from './components/QuestionCard';
 import HistoryBoard from './components/HistoryBoard';
-import { Upload, BookOpen, ChevronLeft, ChevronRight, LayoutGrid, List, Trophy, Grid3X3, ArrowRight, Trash2, User } from 'lucide-react';
+import { Upload, BookOpen, ChevronLeft, ChevronRight, LayoutGrid, List, Trophy, Grid3X3, ArrowRight, Trash2, User, Home, History, HelpCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
@@ -10,7 +10,8 @@ function App() {
   const [customQuizzes, setCustomQuizzes] = useState([]);
   const [questions, setQuestions] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [score, setScore] = useState(0);
+  const [userAnswers, setUserAnswers] = useState({});
+  const score = Object.values(userAnswers).filter(a => a.isCorrect).length;
   const [quizName, setQuizName] = useState("");
   const [quizId, setQuizId] = useState("");
   const [history, setHistory] = useState([]);
@@ -18,6 +19,33 @@ function App() {
   const [isFinished, setIsFinished] = useState(false);
   const [showNav, setShowNav] = useState(false);
   const [deletingId, setDeletingId] = useState(null);
+
+  const getQuestionBtnClass = (idx) => {
+    const isCurrent = currentIndex === idx;
+    const answer = userAnswers[idx];
+    
+    if (isCurrent) {
+      return 'bg-indigo-600 text-white shadow-lg shadow-indigo-600/30';
+    }
+    
+    if (answer) {
+      if (answer.isCorrect) {
+        return 'bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 hover:bg-emerald-500/30';
+      } else {
+        return 'bg-rose-500/20 text-rose-400 border border-rose-500/30 hover:bg-rose-500/30';
+      }
+    }
+    
+    return 'bg-slate-800 text-slate-400 hover:bg-slate-700 border border-transparent';
+  };
+
+  const handleRetryQuestion = (index) => {
+    setUserAnswers(prev => {
+      const updated = { ...prev };
+      delete updated[index];
+      return updated;
+    });
+  };
 
   useEffect(() => {
     // Load history
@@ -74,12 +102,12 @@ function App() {
   const setupProgress = (id) => {
     const savedProgress = localStorage.getItem(`progress_${id}`);
     if (savedProgress) {
-      const { index, score: savedScore } = JSON.parse(savedProgress);
+      const { index, answers } = JSON.parse(savedProgress);
       setCurrentIndex(index);
-      setScore(savedScore);
+      setUserAnswers(answers || {});
     } else {
       setCurrentIndex(0);
-      setScore(0);
+      setUserAnswers({});
     }
     setIsFinished(false);
     setView('quiz');
@@ -115,7 +143,7 @@ function App() {
       setQuizName(newQuiz.name);
       setQuizId(newQuiz.id);
       setCurrentIndex(0);
-      setScore(0);
+      setUserAnswers({});
       setIsFinished(false);
       setView('quiz');
     };
@@ -136,12 +164,13 @@ function App() {
     if (quizId && questions.length > 0 && !isFinished) {
       localStorage.setItem(`progress_${quizId}`, JSON.stringify({
         index: currentIndex,
-        score: score
+        score: score,
+        answers: userAnswers
       }));
     }
-  }, [currentIndex, score, quizId, questions, isFinished]);
+  }, [currentIndex, score, quizId, questions, isFinished, userAnswers]);
 
-  const handleResult = (isCorrect, next = false) => {
+  const handleResult = (isCorrect, next = false, selectedOption = null) => {
     if (next) {
       if (currentIndex < questions.length - 1) {
         setCurrentIndex(prev => prev + 1);
@@ -151,7 +180,14 @@ function App() {
       return;
     }
     
-    if (isCorrect) setScore(prev => prev + 1);
+    setUserAnswers(prev => ({
+      ...prev,
+      [currentIndex]: {
+        selected: selectedOption,
+        isCorrect: isCorrect,
+        submitted: true
+      }
+    }));
   };
 
   const finishQuiz = () => {
@@ -180,30 +216,48 @@ function App() {
         <div className="absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-purple-600/10 blur-[120px] rounded-full" />
       </div>
 
-      <nav className="relative z-11 border-b border-slate-800/50 bg-slate-900/50 backdrop-blur-md sticky top-0">
-        <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
-          <div className="flex items-center gap-3 cursor-pointer" onClick={() => setView('home')}>
-            <div className="w-10 h-10 bg-indigo-600 rounded-xl flex items-center justify-center shadow-lg shadow-indigo-600/20">
-              <BookOpen className="w-6 h-6 text-white" />
+      <nav className="relative z-20 border-b border-slate-800/50 bg-slate-900/50 backdrop-blur-md sticky top-0">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
+          <div className="flex items-center gap-2 sm:gap-3 cursor-pointer" onClick={() => setView('home')}>
+            <div className="w-9 h-9 sm:w-10 sm:h-10 bg-indigo-600 rounded-xl flex items-center justify-center shadow-lg shadow-indigo-600/20">
+              <BookOpen className="w-5 h-5 sm:w-6 sm:h-6 text-white" />
             </div>
-            <span className="text-xl font-bold tracking-tight text-white">SpeedQuizMaker</span>
+            <span className="text-lg sm:text-xl font-bold tracking-tight text-white hidden xs:inline min-[360px]:inline">SpeedQuizMaker</span>
           </div>
           
-          <div className="flex items-center gap-2">
-            <button onClick={() => setView('home')} className={`px-4 py-2 rounded-lg transition-colors ${view === 'home' ? 'bg-indigo-600 text-white' : 'hover:bg-slate-800 text-slate-400'}`}>Trang chủ</button>
-            <button onClick={() => setView('history')} className={`px-4 py-2 rounded-lg transition-colors ${view === 'history' ? 'bg-indigo-600 text-white' : 'hover:bg-slate-800 text-slate-400'}`}>Lịch sử</button>
-            <button onClick={() => setView('help')} className={`px-4 py-2 rounded-lg transition-colors ${view === 'help' ? 'bg-indigo-600 text-white' : 'hover:bg-slate-800 text-slate-400'}`}>Hướng dẫn</button>
+          <div className="flex items-center gap-1 sm:gap-2">
+            <button 
+              onClick={() => setView('home')} 
+              className={`px-2.5 py-1.5 sm:px-4 sm:py-2 rounded-lg transition-colors flex items-center gap-2 ${view === 'home' ? 'bg-indigo-600 text-white font-semibold' : 'hover:bg-slate-800 text-slate-400 hover:text-slate-200'}`}
+            >
+              <Home className="w-4 h-4" />
+              <span className="hidden sm:inline text-sm">Trang chủ</span>
+            </button>
+            <button 
+              onClick={() => setView('history')} 
+              className={`px-2.5 py-1.5 sm:px-4 sm:py-2 rounded-lg transition-colors flex items-center gap-2 ${view === 'history' ? 'bg-indigo-600 text-white font-semibold' : 'hover:bg-slate-800 text-slate-400 hover:text-slate-200'}`}
+            >
+              <History className="w-4 h-4" />
+              <span className="hidden sm:inline text-sm">Lịch sử</span>
+            </button>
+            <button 
+              onClick={() => setView('help')} 
+              className={`px-2.5 py-1.5 sm:px-4 sm:py-2 rounded-lg transition-colors flex items-center gap-2 ${view === 'help' ? 'bg-indigo-600 text-white font-semibold' : 'hover:bg-slate-800 text-slate-400 hover:text-slate-200'}`}
+            >
+              <HelpCircle className="w-4 h-4" />
+              <span className="hidden sm:inline text-sm">Hướng dẫn</span>
+            </button>
           </div>
         </div>
       </nav>
 
-      <main className="relative z-10 max-w-6xl mx-auto px-6 py-12">
+      <main className="relative z-10 max-w-6xl mx-auto px-4 py-6 sm:px-6 sm:py-12">
         <AnimatePresence mode="wait">
           {view === 'home' && (
-            <motion.div key="home" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }} className="space-y-12">
-              <div className="text-center space-y-4 max-w-2xl mx-auto">
-                <h1 className="text-5xl font-black text-white leading-tight">Thư viện <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-purple-400">của bạn</span></h1>
-                <p className="text-lg text-slate-400">Khám phá các bộ đề hệ thống hoặc quản lý các bộ đề bạn đã tải lên.</p>
+            <motion.div key="home" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }} className="space-y-8 sm:space-y-12">
+              <div className="text-center space-y-3 sm:space-y-4 max-w-2xl mx-auto">
+                <h1 className="text-3xl sm:text-5xl font-black text-white leading-tight">Thư viện <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-purple-400">của bạn</span></h1>
+                <p className="text-sm sm:text-lg text-slate-400">Khám phá các bộ đề hệ thống hoặc quản lý các bộ đề bạn đã tải lên.</p>
               </div>
 
               {/* System Quizzes Section */}
@@ -211,7 +265,7 @@ function App() {
                 <h2 className="text-xl font-bold text-slate-300 flex items-center gap-2">
                   <BookOpen className="w-5 h-5 text-indigo-500" /> Đề từ hệ thống
                 </h2>
-                <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
                   {systemQuizzes.map((quiz) => (
                     <button key={quiz.id} onClick={() => loadQuiz(quiz)} className="glass p-6 rounded-2xl text-left group hover:border-indigo-500/50 transition-all duration-300">
                       <div className="w-12 h-12 bg-indigo-600/20 rounded-xl flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
@@ -232,7 +286,7 @@ function App() {
                 <h2 className="text-xl font-bold text-slate-300 flex items-center gap-2">
                   <User className="w-5 h-5 text-emerald-500" /> Đề của bạn
                 </h2>
-                <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
                   {customQuizzes.map((quiz) => (
                     <div key={quiz.id} className="relative group">
                       <div 
@@ -278,47 +332,101 @@ function App() {
           )}
 
           {view === 'quiz' && (
-            <motion.div key="quiz" initial={{ opacity: 0, scale: 0.95 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0, scale: 0.95 }} className="space-y-8">
-              <div className="flex items-center justify-between mb-8">
-                <button onClick={() => setView('home')} className="flex items-center gap-2 text-slate-400 hover:text-white transition-colors">
-                  <ChevronLeft className="w-5 h-5" /> Thoát
+            <motion.div key="quiz" initial={{ opacity: 0, scale: 0.95 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0, scale: 0.95 }} className="space-y-4 sm:space-y-8">
+              <div className="flex flex-row items-center justify-between gap-2 mb-4 sm:mb-8 bg-slate-900/40 p-3 sm:p-0 rounded-2xl border border-slate-800/50 sm:border-0 sm:bg-transparent">
+                <button onClick={() => setView('home')} className="flex items-center gap-1.5 text-slate-400 hover:text-white transition-colors text-sm sm:text-base">
+                  <ChevronLeft className="w-4 h-4 sm:w-5 sm:h-5" /> <span className="hidden min-[360px]:inline">Thoát</span>
                 </button>
-                <div className="flex items-center gap-6">
-                  <button onClick={() => setShowNav(!showNav)} className={`flex items-center gap-2 px-3 py-1.5 rounded-lg border transition-colors ${showNav ? 'bg-indigo-600 border-indigo-500 text-white' : 'border-slate-700 text-slate-400 hover:text-white'}`}>
-                    <Grid3X3 className="w-4 h-4" /> Danh sách câu
+                <div className="flex items-center gap-3 sm:gap-6">
+                  <button onClick={() => setShowNav(!showNav)} className={`flex items-center gap-1.5 px-2.5 py-1.5 sm:px-3 sm:py-1.5 rounded-lg border transition-colors text-xs sm:text-sm ${showNav ? 'bg-indigo-600 border-indigo-500 text-white' : 'border-slate-700 text-slate-400 hover:text-white'}`}>
+                    <Grid3X3 className="w-3.5 h-3.5 sm:w-4 sm:h-4" /> <span className="hidden sm:inline">Danh sách câu</span><span className="sm:hidden">Chọn câu</span>
                   </button>
-                  <div className="text-center"><p className="text-xs text-slate-500 uppercase tracking-widest font-bold">Điểm</p><p className="text-2xl font-black text-emerald-400">{score}</p></div>
-                  <div className="text-center"><p className="text-xs text-slate-500 uppercase tracking-widest font-bold">Câu</p><p className="text-2xl font-black text-indigo-400">{currentIndex + 1}/{questions.length}</p></div>
+                  <div className="text-center min-w-[36px]"><p className="text-[10px] sm:text-xs text-slate-500 uppercase tracking-widest font-bold">Điểm</p><p className="text-base sm:text-2xl font-black text-emerald-400">{score}</p></div>
+                  <div className="text-center min-w-[48px]"><p className="text-[10px] sm:text-xs text-slate-500 uppercase tracking-widest font-bold">Câu</p><p className="text-base sm:text-2xl font-black text-indigo-400">{currentIndex + 1}/{questions.length}</p></div>
                 </div>
               </div>
-              <div className="grid lg:grid-cols-4 gap-8">
+              <div className="grid lg:grid-cols-4 gap-6 sm:gap-8">
                 <div className={`${showNav ? 'lg:col-span-3' : 'lg:col-span-4'} transition-all duration-300`}>
                   {questions.length > 0 && !isFinished ? (
-                    <QuestionCard question={questions[currentIndex]} onResult={handleResult} />
+                    <QuestionCard 
+                      question={questions[currentIndex]} 
+                      currentIndex={currentIndex}
+                      savedAnswer={userAnswers[currentIndex]}
+                      onResult={handleResult}
+                      onRetryQuestion={handleRetryQuestion}
+                    />
                   ) : isFinished && (
-                    <div className="glass p-12 rounded-3xl text-center max-w-xl mx-auto space-y-6">
-                      <div className="w-20 h-20 bg-emerald-500/20 rounded-full flex items-center justify-center mx-auto"><Trophy className="w-10 h-10 text-emerald-500" /></div>
-                      <h2 className="text-3xl font-black text-white">Hoàn thành!</h2>
-                      <p className="text-slate-400 text-lg">Đúng {score}/{questions.length} câu.</p>
-                      <div className="pt-6 flex gap-4">
-                        <button onClick={() => { setCurrentIndex(0); setScore(0); setIsFinished(false); }} className="premium-button-primary flex-1">Làm lại</button>
-                        <button onClick={() => setView('home')} className="premium-button-secondary flex-1">Quay lại</button>
+                    <div className="glass p-6 sm:p-12 rounded-3xl text-center max-w-xl mx-auto space-y-6">
+                      <div className="w-16 h-16 sm:w-20 sm:h-20 bg-emerald-500/20 rounded-full flex items-center justify-center mx-auto"><Trophy className="w-8 h-8 sm:w-10 sm:h-10 text-emerald-500" /></div>
+                      <h2 className="text-2xl sm:text-3xl font-black text-white">Hoàn thành!</h2>
+                      <p className="text-slate-400 text-base sm:text-lg">Đúng {score}/{questions.length} câu.</p>
+                      <div className="pt-4 sm:pt-6 flex gap-3 sm:gap-4">
+                        <button onClick={() => { setCurrentIndex(0); setUserAnswers({}); setIsFinished(false); }} className="premium-button-primary flex-1 py-2 sm:py-3">Làm lại</button>
+                        <button onClick={() => setView('home')} className="premium-button-secondary flex-1 py-2 sm:py-3">Quay lại</button>
                       </div>
                     </div>
                   )}
                 </div>
-                <AnimatePresence>
-                  {showNav && (
-                    <motion.div initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: 20 }} className="glass p-6 rounded-2xl h-fit max-h-[70vh] overflow-y-auto">
-                      <h3 className="font-bold text-white mb-4 flex items-center gap-2"><Grid3X3 className="w-4 h-4" /> Chọn câu</h3>
-                      <div className="grid grid-cols-5 gap-2">
-                        {questions.map((_, idx) => (
-                          <button key={idx} onClick={() => { setCurrentIndex(idx); setShowNav(false); }} className={`w-10 h-10 rounded-lg text-sm font-bold flex items-center justify-center transition-colors ${currentIndex === idx ? 'bg-indigo-600 text-white shadow-lg shadow-indigo-600/30' : 'bg-slate-800 text-slate-400 hover:bg-slate-700'}`}>{idx + 1}</button>
-                        ))}
-                      </div>
-                    </motion.div>
-                  )}
-                </AnimatePresence>
+
+                {/* Sidebar list selection on desktop */}
+                <div className="hidden lg:block">
+                  <AnimatePresence>
+                    {showNav && (
+                      <motion.div initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: 20 }} className="glass p-6 rounded-2xl h-fit max-h-[70vh] overflow-y-auto">
+                        <h3 className="font-bold text-white mb-4 flex items-center gap-2"><Grid3X3 className="w-4 h-4" /> Chọn câu</h3>
+                        <div className="grid grid-cols-5 gap-2">
+                          {questions.map((_, idx) => (
+                            <button 
+                              key={idx} 
+                              onClick={() => { setCurrentIndex(idx); setShowNav(false); }} 
+                              className={`w-10 h-10 rounded-lg text-sm font-bold flex items-center justify-center transition-all ${getQuestionBtnClass(idx)}`}
+                            >
+                              {idx + 1}
+                            </button>
+                          ))}
+                        </div>
+                      </motion.div>
+                    )}
+                  </AnimatePresence>
+                </div>
+
+                {/* Bottom sheet selector on mobile */}
+                <div className="lg:hidden">
+                  <AnimatePresence>
+                    {showNav && (
+                      <>
+                        <motion.div 
+                          initial={{ opacity: 0 }}
+                          animate={{ opacity: 1 }}
+                          exit={{ opacity: 0 }}
+                          onClick={() => setShowNav(false)}
+                          className="fixed inset-0 z-50 bg-slate-950/60 backdrop-blur-sm"
+                        />
+                        <motion.div 
+                          initial={{ y: "100%" }}
+                          animate={{ y: 0 }}
+                          exit={{ y: "100%" }}
+                          transition={{ type: "spring", damping: 25, stiffness: 200 }}
+                          className="fixed bottom-0 left-0 right-0 z-50 glass p-6 rounded-t-3xl h-[60vh] overflow-y-auto border-t border-slate-700"
+                        >
+                          <div className="w-12 h-1.5 bg-slate-600 rounded-full mx-auto mb-6 cursor-pointer" onClick={() => setShowNav(false)} />
+                          <h3 className="font-bold text-white mb-4 flex items-center gap-2 text-lg"><Grid3X3 className="w-5 h-5 text-indigo-400" /> Chọn câu hỏi</h3>
+                          <div className="grid grid-cols-5 sm:grid-cols-8 gap-3 justify-items-center">
+                            {questions.map((_, idx) => (
+                              <button 
+                                key={idx} 
+                                onClick={() => { setCurrentIndex(idx); setShowNav(false); }} 
+                                className={`w-12 h-12 rounded-xl text-base font-bold flex items-center justify-center transition-all ${getQuestionBtnClass(idx)}`}
+                              >
+                                {idx + 1}
+                              </button>
+                            ))}
+                          </div>
+                        </motion.div>
+                      </>
+                    )}
+                  </AnimatePresence>
+                </div>
               </div>
             </motion.div>
           )}
