@@ -28,5 +28,10 @@
     "id": "CAU-HOI-ON-TAP-TRAC-NGHIEM-KINH-TE-CHINH-TRI-MAC-LENIN",
     "name": "Câu hỏi ôn tập trắc nghiệm kinh tế chính trị Mác - Lênin",
     "file": "quiz/CAU-HOI-ON-TAP-TRAC-NGHIEM-KINH-TE-CHINH-TRI-MAC-LENIN.txt"
+  },
+  {
+    "id": "Giua-ky-kinh-te-chinh-tri-mac-lenin",
+    "name": "Giữa kỳ kinh tế chính trị Mác - Lênin",
+    "file": "quiz/Giua_ky_Kinh_te_chinh_tri_Mac_lenin.txt"
   }
 ]
