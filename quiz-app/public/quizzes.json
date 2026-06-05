@@ -33,5 +33,10 @@
     "id": "Giua-ky-kinh-te-chinh-tri-mac-lenin",
     "name": "Giữa kỳ kinh tế chính trị Mác - Lênin",
     "file": "quiz/Giua_ky_Kinh_te_chinh_tri_Mac_lenin.txt"
+  },
+  {
+    "id": "Kinh-te-chinh-tri-mac-lenin",
+    "name": "Ôn tập cuối kỳ kinh tế chính trị Mác - Lênin",
+    "file": "quiz/ktctml.txt"
   }
 ]
